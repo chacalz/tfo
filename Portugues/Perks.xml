@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<perks>
+	
+	<aperk id="100" name="Oficiais" info="Aumenta em 1 o número de oficiais"/>
+	<aperk id="101" name="Grupo Principal" info="Aumenta em 2 o número de sócios do clube"/>
+	
+	<aperk id="102" name="Experiência" info="Aumenta em 1% a experiência adquirida com a pesca para todos os membros do clube"/>
+	<aperk id="103" name="Valor" info="Aumenta em 1% o valor de venda de peixes para todos os membros do clube"/>
+	
+	<aperk id="104" name="Eficiência" info="Aumenta em 3% a experiência de todos recursos do clube"/>
+	<aperk id="105" name="Universidade" info="Aumenta em 2 o número de sócios do clube"/>
+	
+	
+	
+</perks>    

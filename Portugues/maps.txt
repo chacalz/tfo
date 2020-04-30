@@ -1,0 +1,55 @@
+﻿[MAP_NAMES]
+1_Name=Alemanha: Wasserdamm
+1_Info=
+
+2_Name=Rússia: Rio Pra
+1_Info=
+
+3_Name=França: Lagoas de Perruchet 
+1_Info=
+
+4_Name=Finlândia: Lago Kulgu
+4_Info=
+
+5_Name=Ucrânia: Rio Domaha
+1_Info=
+
+6_Name=Bielorrússia: Lago Dukora
+6_Info=
+
+7_Name=Itália: Rio Pó
+7_Info=
+
+8_Name=Polônia: Rio San
+8_Info=
+
+10_Name=Irã: Mar Cáspio
+
+[LOC_NAMES]
+---------------------
+# Брезинер
+0_Name=
+1_Name=Camping
+2_Name=Water lilies
+3_Name=Wheat field
+4_Name=City Beach
+5_Name=Resting-place
+
+
+
+
+---------------------
+# Мещера
+21_Name=Camp
+22_Name=Pine Forest
+23_Name=Meshchera
+24_Name=Swamp
+
+---------------------
+31_Name=Perruchet
+
+---------------------
+
+51_Name=Fishing base
+
+# Пруд Перруше  Les étangs de Perruchet

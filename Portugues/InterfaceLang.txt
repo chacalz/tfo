@@ -1,0 +1,1425 @@
+﻿[INTERFACE]
+
+fly_mtype0=Isca DRY
+fly_mtype1=Isca WET
+
+-------------------
+
+findplayer=LOCALIZAR JOGADOR
+turn_publicname=TORNEIOS PÚBLICOS
+turn_customname=TORNEIOS PRIVADOS
+post_msg8={0} te presenteou com {1} х{2}
+cntx_gift=Enviar para ...
+chtset_alfa=Transparência do Chat
+chtset_fsize=Tamanho da Fonte
+chtset_chide=Esconder Chat
+-------------------
+
+
+
+turn_uslp1=Pesca de barco: {0}
+turn_uslp2=Uma vara: {0}
+turn_uslp3=Varas do tipo: {0}
+
+turn_uslrt_0=QUALQUER
+turn_uslrt_90=VARA DE MÃO
+turn_uslrt_100=COM BÓIA
+turn_uslrt_101=PESADA
+turn_uslrt_102=ARTIFICIAL
+turn_uslrt_103=FLY
+turn_uslrt_104=CARRETILHA
+turn_uslrt_105=ULTRA LEVE
+
+
+turn_uslpyes=SIM
+turn_uslpno=NÃO
+turn_uslp_allow=PERMITIDO
+turn_uslp_deny=NEGADO
+
+-------------------
+
+club_err5=Para editar você precisa do Token Fundador do Clube
+club_editname=Edita o nome do Clube
+-------------------
+
+in_dev=Em desenvolvimento
+act_inf4=Congelar Peixe
+gi_um_gqw=Missões aceitas
+boat_inf6=[U] Ir para o deck
+boat_inf7=[R] Vender o Peixe
+boat_inf8=Ligar/Desligar [J]\nÂncora [K]
+
+-------------------
+
+
+
+club_levup=Nível do Clube para {0}
+club_expadd=Clube +{0} exp
+qd_clname=Clube
+
+dntpck_130_name=Pacote "Fundador"
+dntpck_130_info=Contém o "distintivo fundador do clube", usando para você abrir seu próprio clube de pesca
+dntpck_130_act=+ 15 dias VIP como presente
+
+
+club_userout={0} saiu do jogo
+club_userin={0} entrou no jogo
+key_openclub=Painel do Clube
+club_invmsg4=Jogador {0} aceitou o convite
+club_invmsg3=Você entro no clube!
+club_invmsg2=Jogador {0}\n te convidou para entrar no clube\n{1}
+club_invmsg=Convite recebido para o clube {0}
+club_ech1=Jogador não encontrado!
+club_ech4=O jogador já está em um clube!
+club_ech3=Não existe espaços livres no clube!
+club_invok=Convite enviado
+club_invitation=Convidar para o clube
+club_out=Quer realmente deixar o clube \n{0}?
+club_btn1=Sair do clube
+club_inf1=Criação de clube
+club_inf2=Nome do clube (3-20 caracteres)
+club_inf3=Tag do clube (2-4 caracteres)
+club_inf4=CRIAR
+club_err1=Apenas letras, números e espaço são permitidos
+club_err2=O nome do clube está incorreto
+club_err3=O TAG do clube está incorreto
+club_err4=Nome ou TAG já existe
+
+btn_qtaskvip=Diárias
+
+dntpck_2_name=Pacote "SeaCast"
+dntpck_2_info=O kit contém uma vara de pescar de fundo pesada (52 kg), um carretel multiplicador, linha de pesca e 500 pratas
+
+dntpck_1_hint=* O preço para sua região pode variar.
+dntpck_1_name=Pacote "BeeCast"
+dntpck_1_info=O kit contém uma vara de pesca de fundo leve (5 kg, + 75% da experiência adquirida), um carretel de baixo perfil, linha de pesca e um conjunto aleatório de iscas UL (3 peças)
+
+
+wptype_offset=Offset hook
+wptype_jhead=Jig-head
+
+ny_later=There are no more gifts today. Come back tomorrow
+ufstat_trof=Trophy:
+
+cht_bmsg7=Recorde local: {0} {1}
+cht_bmsg8=<color='#ffa020'>Você estabeleceu o {0}</color>
+cht_bmsg9=<color='#ffa020'>Jogador {0} estabeleceu o {1}</color>
+
+gi_um_11=VIAGEM
+rect_baserec=Recordes local
+rect_globrec=Recordes mundial
+rect_sortinf=Ordernar por:
+
+
+wplevel_0=AQUISIÇÃO
+wplevel_1=1 DOMÍNIO I
+wplevel_2=2 DOMÍNIO II
+wplevel_3=3 DOMÍNIO III
+wplevel_4=4 ADAPTAÇÃO
+wplevel_5=5 AJUSTAMENTO I
+wplevel_6=6 AJUSTAMENTO II
+wplevel_7=7 AJUSTAMENTO III
+wplevel_8=8 TREINAMENTO 
+wplevel_9=9 AMADOR I
+wplevel_10=10 AMADOR II
+wplevel_11=11 AMADOR III
+wplevel_12=12 QUALIFICAÇÃO
+wplevel_13=13 ESPECIALISTA I
+wplevel_14=14 ESPECIALISTA II
+wplevel_15=15 ESPECIALISTA III
+wplevel_16=16 PROFISSIONAL 
+wplevel_17=17 PROFISSIONAL I
+wplevel_18=18 PROFISSIONAL II
+wplevel_19=19 PROFISSIONAL III
+wplevel_20=20 MESTRE
+wplevel_21=★ MESTRE
+
+
+
+setng_lb1=Distância da sombra
+setng_lb2=Distância do detalhe
+setng_lb3=Distância da grama
+setng_lb4=Gamma
+setng_lb5=Contraste
+setng_lb6=Sombras
+setng_lb7=Tamanho da interface
+setng_lb8=Padrão
+
+naviinfo1=Coordenadas do marcador
+naviinfo2=Distância do marcador
+
+boat_inf6=[U] SENTAR
+
+
+
+key_move_frwrd=Frente
+key_move_bckwrd=Trás
+key_move_left=Esquerda
+key_move_right=Direira
+key_mrun=Correr
+key_action=Ação
+key_mrollspd=Aceleração do Molinete
+key_closerod=Fechar vara de pescar
+key_openreel=Abrir o molinete
+key_altroll=Alt reel
+key_altrod=Alt rod
+key_zoom=Zoom
+key_openrod=Vara Corrente
+key_sragula=Colocar a vara no descanso
+key_feeddrop=Jogar atrativo
+key_redrop=Jogar a vara novamente
+key_openbait=Abrir iscas
+key_openmap=Abrir o mapa
+key_getfish=Pegar o peixe
+key_dropfish=Soltar o peixe
+key_cursoronoff=Liga/Desliga o cursor
+key_spdpanel=Painel da velocidade
+key_osmart=Abrir o celular
+key_invntr=Abrie o Inventário
+key_ftank=Abrir o Cesto de Peixes
+key_slight=Lanterna
+	
+key_ot1=Slot 1 da Vara
+key_ot2=Slot 2 da Vara
+key_ot3=Slot 3 da Vara
+
+
+setbtn_0=Gráficos
+setbtn_1=Som
+setbtn_2=Controles
+setbtn_3=Jogo
+
+
+btn_makeoutinf=Ajuda de emergência para equipamentos presos. Se você perdeu objetos, clique no botão abaixo para desmontar TODAS as suas varas e colocar em sua mochila.
+btn_makeout=Desmontar TUDO
+
+btn_ext1=Menu Principal
+btn_ext2=Sair do Jogo
+
+serv_err1=Fish not accepted by server! Cause:
+
+infcell_roll=Molinete
+infcell_line=Linha
+infcell_hook=Anzol
+infcell_float=Bóia
+infcell_leash=Líder
+infcell_gruz=Peso / Alimentador
+infcell_korm=Alimentador
+infcell_prkorm=Atrativo
+infcell_bait=Isca
+infcell_blesn=Isca
+infcell_cord=Corda
+
+
+inf_limit=Server is FULL
+
+
+rd_inf=ACESSO ANTECIPADO
+info_help1=F1 para ajuda
+help_info_keys=[F2-F3-F4] Abas do chat\n[1-2-3] Seleciona a vara\n[Backspace] Guarda a vara\n[Y] Coloca a vara no descanso\n[Q] Celular\n[M] mapa\n[O] Lança atrativo\n[B] Seleciona a isca\n[V] Ver a vara atual\n[P] Lanterna\n[i] Inventário\n[C] Cesto de peixes\n[X] Clips\n[ALT] Liga/Desliga o cursor
+
+act_infact=Pressione [Е]
+act_inf1=VIAGEM
+act_inf2=VENDER PEIXE
+act_inf3=LOJA
+
+
+wpn_remf1=Repair {0}\n Cost {1}?
+sh_pay_vpadd=Add VIP {0} days
+sh_pay_overlay=Turn on the Steam Overlay!
+
+sh_pay_vppers=VIP PESSOAL (para mim)
+sh_pay_vpcard=CARTÕES VIP (para venda)
+
+sh_pay_day_1=1 DIA
+sh_pay_day_3=3 DIAS
+sh_pay_day_7=7 DIAS
+sh_pay_day_15=15 DIAS
+sh_pay_day_30=30 DIAS
+
+
+fish_mwgt=Max weight ~{0}
+
+prov_prov_5=Toque
+prov_prov_6=Múltiplos toques
+prov_prov_7=Passo-a-passo JUMPING
+
+wpn_catfly=Spool: {0:0.0} m (on using cord 1 mm)
+
+treel_type0=Inertialess
+treel_type1=Inertial
+treel_type2=Low profile
+treel_type3=Multiplier
+
+
+boat_inf4=BARCO
+boat_inf5=[E] ENTRAR NO BARCO
+
+
+boat_inf3=VELOCIDADE
+boat_inf2=[E] SAIR DO BARCO
+boat_inf1=Ligar/Desligar [J]\nÂncora [K]\nVelocidade [W-S]\nVirar [A-D]
+
+wpdropinfo=First disassemble the fishing rod
+
+wpn_hook_sz0=Minúsculo
+wpn_hook_sz1=Pequeno
+wpn_hook_sz2=Médio
+wpn_hook_sz3=Grande
+wpn_hook_sz4=Enorme
+
+recsts_btn1=POR NOME
+recsts_btn2=POR PESO
+recsts_btn3=POR LOCAL
+recsts_btn4=POR PEIXE
+
+recsts_btn5=POR QUANTIDADE
+recsts_btn6=POR RECORDE
+
+setVol_musc=Volume da música
+setVol_envr=Volume do ambiente
+setVol_sign=Volume do alarme
+setVol_ottr=Volume das varas
+setVol_motr=Volume dos motores
+
+#the Fisher
+#------------------------------------
+
+tf_wpr1=Durabilidade: {0}kg\nComprimento: {1}m
+tf_wpr2=Fricção {1}кг\nPoder {0}kg
+tf_wpr3=Durabilidade: {1} kg\nEspessura: {0} mm
+tf_wpr4=Quantidade: {0} pçs\nPeso: {1}
+tf_wpr5=Deep {0}m
+
+stm_1=Iniciar o Jogo
+stm_2=Configurações
+stm_3=Sair
+
+tdsad_cnt=Quantidade:
+tdsad_wgt=Peso:
+tdsad_sad=Cesto
+tdsad_rod=Varas
+tdbtn_salesingl=Vender
+tdbtn_saleall=Vender Todos
+
+
+
+
+
+#------------------------------------
+
+
+showmetr=Show fish distance
+bs_nodonate=Ticket required
+
+chatconnecthelp=<color='#80ff40'>Attention! This is a help channel for newcomers. Flood, unnecessary topics discussion and profanity are strictly prohibited and will be punished in accordance with the laws of Wasteland!</color>
+fshop_btn3=VENDER TUDO
+
+#Added 21.10.2018
+#------------------------------------
+invn_win1=Recycling
+invn_rec1=Recycling result:
+invn_rec2={0} x{1} pçs
+invn_rec3=Dismantling
+invn_rec4=Fixing:{0}\nBase durability lost: {1}
+invn_rec5=Upgrading
+invn_rec6=Upgrade cost:
+invn_rec7=Successful upgrade chance (+{0}):
+invn_rec8=Improve
+invn_rec9=Item repair
+invn_rec10=Current durability: {0}/{1}
+invn_rec11=No chosen repairkits
+invn_rec12=Use
+
+invn_rec13=Descartar o item
+invn_rec14=Confirma jogar fora o item \n{0}?
+invn_rec15=Using
+invn_rec16=Item dismantling
+invn_rec17=By dismantling this item you’ll get:
+invn_rec18=and also with some chance:
+invn_rec19={0} x{1}-{2} pçs
+invn_rec20=- nothing -
+invn_rec21=Dismantle
+invn_rec22=Possible recycling result:
+invn_rec23={0} +{1} pçs\n{2}
+invn_rec24=Recycling cost {0} WP/pçs\nFor everything: {1}/{2} WP
+invn_rec25=Recycle
+invn_rec26=Learning
+invn_rec27=The item requires no repairs!
+invn_rec28=By repairing you’ll make the item worse!
+invn_rec29=Repairing
+invn_rec30=Actions
+invn_rec31=Splitting the item
+invn_rec32=Amount:
+invn_rec33=Split
+invn_rec34=Area map
+
+chat_n1=Popular channels
+chat_n2=NEW CHAT CHANNEL
+chat_n3=New channel name
+
+
+
+invn_ver1=<color='#000000'>always</color>
+invn_ver2=<color='#003000'>often</color>
+invn_ver3=<color='#000030'>sometimes</color>
+invn_ver4=<color='#200030'>seldom</color>
+invn_ver5=<color='#302000'>very seldom</color>
+invn_ver6=<color='#303000'>extremely seldom</color>
+
+
+
+
+
+
+
+#Added 16.10.2018
+#------------------------------------
+cht_umsg10=<color='#ff80ff'>Você pegou {0}</color>
+cht_umsg11=<color='#ff80ff'>{0} pegou {1}</color>
+
+#Added 13.10.2018
+#------------------------------------
+set_speedi=SPEED
+set_deepi=DEEP
+set_frici=FRICTION
+
+
+#Added 28.09.2018
+#------------------------------------
+trn_start=O Torneio `{0}` começou
+trn_end=O Torneio `{0}` terminou
+trn_reg=Preparando para o torneio `{0}`
+
+anfish=Qualquer peixe
+prisefond=Prêmio:
+pf1m=1º: {0}
+pf2m=2º: {0}
+pf3m=3º: {0}
+pf4_10m=4º~10º: {0}
+
+#Added 28.02.2018
+#------------------------------------
+turn_base1={0}
+turn_levels=Níveis\n{0}~{1}
+turn_tminfo=Duração: {0} min
+turn_state0=Aguardando\nTempo restante {0}
+turn_state1=Aguardando\nTempo restante {0}
+turn_state2=Aberto\nTempo restante {0}
+turn_state3=Prêmio
+turn_state4=Fechado
+turn_state100=Fechado
+
+
+#Added 06.03.2018
+#------------------------------------
+pck_feed_name=<size=22>VOLGAR PREMIUM</size>\nGAME BUNDLE
+pck_feed_info=<b>Ledger rod Volgar</b>\n<size=10>28 kg, long cast</size>\n\n<b>Power Reel Volgar-Roll</b>\n<size=10>friction 26 kg, 20 strengthening, 20 compensation</size>\n\n<b>Line Volgar-Line</b>\n<size=10>26 kg, 0.28, 150 meters, green</size>\n\n<b>Feeding-rack "Method"-</b>\n<size=10>40 grams +to carp species</size>
+
+#Added 04.03.2018
+#------------------------------------
+hlp1=Mouse wheel - zoom in/out view on the float, switch of first/third person view
+hlp2=Fast switch of first/third person view 
+hlp3=Right mouse button: raise the rod
+hlp4=Left mouse button: reel in the line
+hlp5=Middle mouse button: recast the bait to the previous point, as for the spinning - take the bait back from water
+hlp6=Turn on/off the flashlight
+hlp7=Sit on/get up from the chair (if you have one)
+hlp8=To throw an attractant for the float tackle (if it is equipped in the slot)
+hlp9=Turn left/right
+hlp10=Mouse wheel - zoom in/out view 
+hlp11=Character movement
+hlp12=Camera rotation
+hlp13=Set the movement destination point
+hlp14=Run
+
+#Added 01.03.2018
+#------------------------------------
+line_type0=Type: monofilament
+line_type1=Type: braid
+line_type2=Type: fluorocarbon 
+line_type3=Type: fly fishing cord
+
+
+#Added 22.02.2018
+#------------------------------------
+
+rod_inf1=Linha em uso: {0:0.0} m
+rod_inf2=Ideal para peixe de {0} kg
+
+#Added 15.02.2018
+#------------------------------------
+wpn_bait_sz=Tamanho: 
+wpn_bait_sz0=Pequeno
+wpn_bait_sz1=Médio
+wpn_bait_sz2=Grande
+
+wpn_bait_typ_4=Colher
+wpn_bait_typ_5=Colher Giratória
+wpn_bait_typ_6=Isca Macia
+wpn_bait_typ_7=Wobbler
+
+wpn_bait_vob_0=Topwater
+wpn_bait_vob_1=Afloat
+wpn_bait_vob_2=Sinking
+wpn_bait_vob_deep=Deepening: {0} m
+
+wpn_bait_inf_4=As iscas de colher funcionam bem tanto no recolhimento uniforme quanto no recolhimento passo-a-passo
+wpn_bait_inf_5=As iscas de colher rotativas funcionam melhor durante o recolhimento uniforme lenta
+wpn_bait_inf_6=As iscas Jigging requerem o recolhimento uniforme com toque ou passo-a-passo. Сarnívoros atacam principalmente no momento a isca atinge o fundo.
+wpn_bait_inf_7=As Wobblers são melhores durante o recolhimento lento, mas a melhor opção será o uso de toque.
+
+prov_sob_1=Bateu na água
+prov_sob_2=Tocou no fundo
+prov_sob_3=Isca devagar
+prov_sob_4=Descendo a correnteza
+
+prov_prov_0=Recolhimento Normal
+prov_prov_1=Recolhimento Uniforme
+prov_prov_2=Recolhimento Passo-a-Passo
+prov_prov_3=Recolhimento com Toque
+prov_prov_4=Recolhimento com Toque
+
+
+wpn_cat5=Spool: {0:0.0} m (on using line 0.2mm)
+cnt_dstall={0:0.0} m / {1:0.0} m
+
+
+#Added 03.02.2018
+#------------------------------------
+echo_spec0=Relevo: plano
+echo_spec1=Relevo: descida
+echo_spec2=Relevo: ribanceira
+echo_spec3=Relevo: poço
+echo_spec4=Relevo: planalto
+
+echo_spec10=Fundo: lama
+echo_spec11=Fundo: areia
+echo_spec12=Fundo: pedra
+echo_spec13=Fundo: moluscos
+
+echo_spec20=Planta: nenhuma
+echo_spec21=Planta: grama
+echo_spec22=Planta: borda da grama
+echo_spec23=Planta: raiz da grama
+
+echo_spec30=Borda
+echo_spec31=Enrosco
+echo_spec32=Pedras Grandes
+
+echo_spec40=Ao longo da costa
+
+echo_spec50=Água calma
+echo_spec51=Corrente fraca
+echo_spec52=Corrente forte
+echo_spec53=Corredeira
+
+
+#Added 28.01.2018
+#------------------------------------
+shop_t19=Atrativos
+
+#Added 26.01.2018
+#------------------------------------
+wpn_fid1=Quantidade de atrativo (gr): {0}
+wpn_fid2=Tempo de validade do atrativo (real min): {0}
+wpn_fid3=Disfarce: {0}%
+
+wpn_line3=Espessura (mm): {0}
+wpn_hook3=Chance de auto fisgar: {0}%
+wpn_wgt=Peso: {0}
+
+
+#Added 17.01.2018
+#------------------------------------
+reel_type=Reel type: {0}
+reel_type0=balanced
+reel_type1=high-speed
+reel_type2=power
+rait_1=The richest
+rait_2=Leaders by catching\nin amount
+rait_3=Leaders by catching\nin weight
+rait_4=Honorable\ntrophies catchers
+rait_5=Honorable\nmaecenas
+rait_btn1=Rendimento
+rait_btn2=Pegou
+rait_btn3=By weight
+rait_btn4=Troféis
+rait_btn5=Maecenas
+
+
+specNY2018=+NORD TWS-III ICE
+happyny=HAPPY\nNEW YEAR!
+
+prk_max=MAXIMUM
+usr_inf_a1=Level: {0}\nIs located: {1}-{2}
+usr_inf_a2=NO ARTEL
+usr_inf_a3=Steam name: {0}
+usr_inf_a4=Account creation date\n{0:d.M.yyyy HH:mm}
+
+usr_inf_c1=Information
+
+
+cht_info=INFORMATION
+
+
+#Added 31.10.2017
+#------------------------------------
+infmsg_exp=+ <color='#ff80ff'>{0}*{1}%={2} (+{3:0.00} to the skills)</color> experience
+
+
+arw_cap=ARTELS
+arw_myart=MY ARTEL
+arw_crt=CREATE
+arw_appl=REQUEST
+
+arw_h1=NÍVEL
+arw_h2=CLASSIFICAÇÃO
+arw_h3=STAFF
+arw_h4=ADMISSÃO
+
+#Added 24.10.2017
+#------------------------------------
+gi_usei=Used:
+
+
+
+#Added 31.10.2017
+#------------------------------------
+infmsg_exp=+ <color='#ff80ff'>{0}*{1}%={2} (+{3:2} to the skills)</color> experience
+
+
+arw_cap=ARTELS
+arw_myart=MY ARTEL
+arw_crt=CREATE
+arw_appl=REQUEST
+
+arw_h1=LEVEL
+arw_h2=RATING
+arw_h3=STAFF
+arw_h4=ADMISSION
+
+#Added 24.10.2017
+#------------------------------------
+gi_usei=Used:
+
+
+#Added 01.10.2017
+#------------------------------------
+gi_inte_1=Loot catching chance (from the initial) {0}%
+gi_inte_2=Receiving experience  {0}%
+gi_inte_3=Skills experience {0}%
+gi_inte_4=Draught power {0}
+gi_inte_5=Max fish weight allowed {0}
+
+pck_match_name=<size=22>MATCH PREMIUM</size>\nGAMING BUNDLE
+pck_match_info=<b>Rod Match-Premium </b>\n<size=10>20 kg, 5.5m depth, long cast</size>\n\n<b>Reel MatchRoll </b>\n<size=10>friction up to 19.8 kg, 20 strengthening, 20 compensation</size>\n\n<b>Line MatchLine</b>\n<size=10>20 kg, 150 meters</size>\n\n<b>Float Matched-</b>\n<size=10>Enlarged, +biting sound indicator</size>
+
+#Added 20.08.2017
+#------------------------------------
+glm_prip=Supplies needed:
+glm_gobtn=ENTRAR
+fishdrop_3=<color='#ff8000'>Peixe muito grande</color>
+
+
+#Added 06.06.2017
+sw_txt1=Som do molinete girando
+sw_txt2=Volume do som
+sw_txt3=Tonalidade do som
+sw_txt4=Som da bóia
+ 
+ 
+#Added 03.06.2017
+#------------------------------------
+wpn_iwgt=Peso da mordida: {0}
+wpn_ibsize_0=Pequeno (anzóis № 0-1)
+wpn_ibsize_1=Médio (anzóis № 0-2)
+wpn_ibsize_2=Grande (anzóis № 1-3)
+wpn_ibsize_3=Enorme (anzóis № 2-4)
+ 
+wpn_hookf=Para peixe de {0} até {1}
+
+
+#Added 28.04.2017
+#------------------------------------
+wpn_chair1=Energy restore when sitting: {0}/сек
+wpn_chair2=<color='#400000'>Fishing worse when sitting: {0}%</color>
+wpn_chair3=Fishing betterment when sitting: {0}%
+
+
+#Added 26.04.2017
+#------------------------------------
+
+harvestmsg1=No resource
+harvestmsg2=Lack of WP
+harvestmsg3=No skills
+harvestmsg4=Gathering {0} s
+
+userdeadmsg=Player died...
+tankfullmsg1=<color='#ff6000'>THE TANK IS OVERFILLED!</color>
+droprodmsg1=<color='#ff0000'>You broke the rod</color>
+droplinemsg1=<color='#ff0000'>You lost the line: {0}</color>
+droplinemsg2=<color='#ff0000'>You tore the line: {0} m</color>
+
+msg_other=TOO CLOSE!
+delcharmsg2=Are you sure you want to delete the character {0}?
+delcharmsg1=Character deleting
+rewgt_msg=Inventory full - check your trashcan!
+fishdrop_1=<color='#ff8000'>The fish got away</color>
+fishdrop_2=<color='#ff8000'>The fish used all the line</color>
+ust_msg=Tiredness!
+inv_bonus=<color='#002040'>Effects on wearing:</color>
+exitmsg_1=Que sair do jogo?
+exitmsg_2=Ir para o Menu Principal?
+exitmsg_3=Sair
+
+
+#------------------------------------
+#Added 18.04.2017
+#------------------------------------
+cnt_energ=Energy consumption on casting: {0}
+cnt_line=Linha:
+cnt_dst={0:0.0} m
+
+#------------------------------------
+#Added 12.04.2017
+#------------------------------------
+post_1=От: {0} Written{1}\nSubject: {2}
+post_2=Delivery service
+post_3=NO LETTERS
+
+post_4=Close
+post_5=Write
+post_6=Delete
+post_7=Delete all
+
+post_8=Read
+post_9=Written: {1}  From: {0}
+
+post_10=From:
+post_11=Subject:
+
+post_12=Answer
+post_13=Take attachments
+
+post_14=<color='#000000'>Letter send cost:</color>
+post_15=Send a letter
+
+post_16=To whom
+post_17=Find
+post_18=Friends
+post_19=Letter subject
+post_20=Money to transfer:
+post_21=<color='#000000'>Letter send cost:</color>
+
+post_22=Money
+post_23=Attachment sum in the letter:
+
+post_msg1=Letter sent successfully
+post_msg2=The recipient not found!
+post_msg3=Not enough money!
+post_msg4=Internal sending error!
+post_msg5=Items not found!
+post_msg6=You cannot send letters to yourself!
+post_msg7=The letter contains attachments!\nTo delete the letter take all the attachments first
+
+#------------------------------------
+#Added 07.04.2017
+#------------------------------------
+cht_msg1=Received {0}+{1}= {2} from fish sale
+cht_msg2=Received {0} from fish sale
+cht_msg3=VIP patent has been bought
+cht_msg4=Not enough funds
+cht_msg5=Auction: sold {0} х{1} pcs
+cht_msg6=<color='#ff0000'>Server restarts in {0} seconds</color>
+cht_msg7=Recorde: {0} {1}
+cht_msg8=<color='#ffa020'>Você estabeleceu o {0}</color>
+cht_msg9=<color='#ffa020'>Jogador {0} estabeleceu o {1}</color>
+
+cht_msg10=The item `{0}` has degraded
+cht_msg11=Disassembly is finished
+cht_msg12=<color='#80ff00'>Learned a recipe for {0} </color>
+cht_msg13=You’ve got a new mail
+
+cht_msg14=There’s no such an item
+cht_msg15=Not enough WP for processing
+cht_msg16=This item cannot be recycled
+
+cht_msg17=New faction is opened '{0}'
+cht_msg18=New reputation level '{0}': {1}
+cht_msg19=Reputation increase: '{0}' on {1}
+cht_msg20=The item had been sent to auction
+cht_msg21=Not enough funds for the auction fee
+cht_msg22=You don’t have such an item
+cht_msg23=<color='#6080ff'> aceito para missão</color>
+
+cht_msg24=The task is absent
+cht_msg25=Higher reputation level is needed
+cht_msg26=You cannot take this task
+cht_msg27=You’ve already taken the task of this type
+cht_msg28=You cannot take task more often than once per 40 minutes
+cht_msg29={0} broke a rod '{1}'
+cht_msg30={0} torn a line '{1}'
+cht_msg31=Not enough funds!
+cht_msg32=Not enough inventory space!
+cht_msg34=Comprou: {0} {1} {2}x{3} pçs.
+
+cht_msg35=The skill has not been learned!
+cht_msg36=The skill had reached max level
+cht_msg37=Low level of the root skill
+cht_msg38=Learned the skill '{0}' {1} level
+cht_msg39=Received the skill '{0}'
+cht_msg40=The recipe had been recorded
+
+
+chan_head=Canais
+chan_nam=Canal
+
+gameban=Sua conta está bloqueada!\nAté: {0} (server time)\nMotivo: {1}
+gameexist=O jogador está realmente no jogo!
+
+wpn_drop=<color='#ff8000'>Item </color>{0}<color='#ff8000'> foi perdido</color>
+myrec=<color='#a040ff'>Recorde Pessoal: {0} (experiência x3)</color>
+settitul=New title has been set:
+newtitul=Received a new title:
+
+chnam1=Name check
+chnam2=Character’s name is allowed to use
+chnam3=Name check error
+chnam4=Such character’s name is already used,\n or does not correspond to rules!\nAllowed Russian or English letters and numbers, name should be \nno less than 3 symbols and no more than 16
+
+cht_ach1=A deed is opened
+cht_ach2=Look for details in the information section about deeds
+cht_ach3=The deed is finished:
+
+cht_exp1=+ <color='#ff80ff'>{0}</color> experience
+
+#------------------------------------
+#Added 06.04.2017
+
+fshop_header=Fish store
+fshop_hd1=Fish prices
+fshop_hd2=Catch selling
+fshop_hd3=You have no fish to sell!
+fshop_hd4=Bargaining
+fshop_msg1=Vendeu {0} {1} pçs com peso {2}
+fshop_msg2=<color='#000000'>{0} pcs. Of total weight {1}</color>\n<color='#000000'>current cost for 1 kilo is {2}</color>\n\n<color='#002000'>Total sale value of this species will be</color>\n
+
+fshop_btn1=To find out prices
+fshop_btn2=Sell this species
+
+fshop_ks1=By catch
+fshop_ks2=Por nome
+fshop_ks3=Por preço
+
+fshop_fcost={0}\ncost for 1 kg: {1}      average price for a piece: {2}
+fshop_fcost2={0} {1} pçs\nvender por {2}
+
+shop_bccount= (tem x{0})
+shop_bccost=<color='{0}'>Custa x{1}: </color>{2}
+shop_ycnt=Você tem {0} pçs
+shop_wl=Compra {0} sec
+shop_header=Loja de equipamentos
+
+shop_t1=Iscas
+shop_t2=Artificiais
+shop_t3=Imitações
+shop_t4=Atrativos
+shop_t5=Varas de Bóia
+shop_t6=Varas de Spinning
+shop_t7=Varas de Fundo
+shop_t8=Molinetes
+shop_t9=Linhas
+shop_t10=Anzóis
+shop_t11=Bóias/Útils
+shop_t12=Cestos
+shop_t13=Alarmes
+shop_t14=Comida/Medicina
+shop_t15=Construir
+shop_t16=Misc
+shop_t17=Manuais
+shop_t20=Viagem
+shop_t18=Especial
+
+shop_t22=Fly Fishing
+shop_t23=Fly
+shop_t24=Barcos 
+shop_t25=Prêmios
+
+min_lev=<color='#{0}'>Level {1}</color>
+
+#------------------------------------
+#Added 05.04.2017
+
+wpn_timed=\n\n<color='#402060'>TEMPORARY left: {0} </color>
+wpn_sost=\nСonfiguration:\n
+wpn_master=<color='#104005'>Created by master {0}</color>
+wpn_break=\n<color='#a06000'>BROKEN!</color>\n
+
+wpn_book1=<color='#702000'>Skill study: {0} - already studied +300 skill exp.</color>\n
+wpn_book2=<color='#102000'>Skill study: {0} - not studied</color>\n
+
+wpn_dress1=Protection from radiation: {0}\n
+wpn_dress2=Protection from aggressive environment: {0}\n
+
+wpn_rem1=Repair: +{0} item durability\n
+wpn_rem2=Base durability loss: {0}\n
+wpn_rem3=Minimum repair threshold: {0}\n
+wpn_rem4=For repair:
+
+wpn_rec1=Recipe for creating: {0} x{1} pcs \n
+wpn_rec2=<color='#ff00ff'>Unlimited</color>\n
+wpn_rec3=Usage amount: {0},pcs\n
+wpn_rec4=Bench-tool required: {0}\n
+wpn_rec5=Profession required: <color='{0}'>{1}</color>\n
+
+wpn_eat1=Satisfies hunger: <color='#102000'>{0}</color>\n
+wpn_eat2=Causes hunger: <color='#201000'>{0}</color>\n
+
+wpn_eat3=Slakes thirst: <color='#102000'>{0}</color>\n
+wpn_eat4=Makes thirsty: <color='#201000'>{0}</color>\n
+
+wpn_eat5=Radresistance: <color='#102000'>+{0}</color>\n
+wpn_eat6=Radresistance: <color='#201000'>-{0}</color>\n
+
+wpn_eat7=Stamina: <color='#102000'>+{0}</color>\n
+wpn_eat8=Stamina: <color='#201000'>-{0}</color>\n
+
+wpn_med1=Life recovery: <color='#102000'>{0}</color>\n
+wpn_med2=Life damage: <color='#201000'>{0}</color>\n
+
+wpn_tank1=Capacidade em Peso: {0}
+wpn_tank2=Capacidade em Quantidade: {0} pçs
+
+wpn_bait1=Attractiveness: {0}%
+wpn_popl1=+Bite signalling alerter
+wpn_hook1=Sharpness: {0} %\n
+wpn_hook2=Tamanho: {0}
+
+wpn_line1=Breaking weight: {0} kg\n
+wpn_line2=Comprimento: {0} m
+
+wpn_cat1=Strengthening:
+wpn_cat2=Compensation:
+wpn_cat3=Is absent
+wpn_cat4=Fricção:
+
+#Added 27.03.2017
+#------------------------------------
+pt_pinent=Enter security Pin-code
+pt_pinmem=To remember PIN
+pt_set=To set Pin-code
+pt_seti=Set a digital Pin-code for the additional protection of your account
+pt_seti2=From 4 to 8 digits. Note down or memorize this code. The game can anytime demand this code for approval.
+pt_setok=Security Pin-code has been set up
+
+#Added 10.03.2017
+#------------------------------------
+qd_day=DIÁRIA
+qd_week=TORNEIOS
+usrto_ignor=Player {0} is added to ignore-list
+usrfrom_ignor=Player {0} is removed from ignore-list
+
+
+specvalentine=+3 package card
+
+#Added 18.01.2017
+#------------------------------------
+inv_pcs1=({0} pcs)
+inv_pcs2=({0}/{1} pcs)
+inv_nodur=no deterioration
+inv_dur=Durability:
+inv_pers=<color='#001040'>Bound</color>
+inv_wpers=<color='#001040'>Will be bound</color>
+inv_impr=<color='#001040'>Upgradable</color>
+inv_minreq=Minimum requirements:
+inv_useeff=<color='#0080ff'>Effects of usage:</color>
+inv_effectinf=<color='#002010'>{0} on {1}</color>
+inv_post=* mail
+inv_auk=* auction
+inv_inv=Inventory expanding
+inv_icost=Bag expanding cost '{0}'
+inv_money=Money:
+inv_or= OR
+inv_rl=Reals:
+inv_invheader=Inventory
+inv_buymsg=Comprou {0} x{1} pç
+inv_auklotinf=Quantidade: {0} \nPrice: {1}\nLot returns: {2:dd/MM HH:mm}
+inv_auklotn=Withdraw
+inv_aukcinf=Minimum price: {0} \nBoard lots with this price: {1}
+inv_auksum=Total purchase sum:
+
+auk_head=Auction
+auk_pbuykey=Buy-out
+auk_pstavka=Stake
+auk_pstinf=Board lot stake from {0} to {1}
+auk_whead=Items auction
+auk_wset=drawing x{0} pcs.
+
+auk_wcnt=Total board lots of this type: {0}
+auk_wmin=Minimum price: {0} for a pc
+auk_wmax=Maximum price: {0} for a pc
+auk_wavg=Starting price: {0} for a pc
+auk_swtcost=Starting price (for all):
+auc_wcstc=Price
+auc_wcswcp=Buy-out price (for all):
+auc_wsbor=Auction fee:
+auc_toauk=To auction
+
+auc_reshdr=Resource auction
+auc_rescst=Sell price (for 1 pc):
+auc_resallcst=Total price for a bundle:
+
+btn_cancel=Cancelar
+
+#Added 27.12.2016
+#------------------------------------
+get_lut=<color='#80ff00'>Caught: {0}</color>"
+nick_info=Character’s name has to be from 5 to 12 symbols with no spaces and special symbols. Allowed either only Russians or only English letters in character’s name.
+
+
+
+#Added 22.12.2016
+#------------------------------------
+// О персонаже
+gi_um_0=Informações
+gi_um_1=Estatísticas
+gi_um_2=Recordes
+gi_um_3=Reputação
+gi_um_4=Ações
+gi_um_5=Perks
+gi_um_6=Títulos
+gi_um_7=Profession
+gi_um_8=Collection
+gi_um_9=Missões
+gi_um_10=Peixes no local
+
+gi_um_rec=Caught {1}\n{2}
+
+// Окно инфо
+gi_uinf_0=Level: {0}    Time online: {1}
+
+gi_uinf_1=Strength: {0}
+gi_uinf_1i=Strength effects on traction  ability and on carried weight
+
+gi_uinf_2=Accuracy: {0}
+gi_uinf_2i=Increases casting accuracy and smoothes fish jerk
+
+gi_uinf_3=Luck: {0}
+gi_uinf_3i=It affects  chance to catch a trophy or loot
+
+gi_uinf_4=Education: {0}
+gi_uinf_4i=It affects amount of experience for level
+
+gi_uinf_5=Health: {0}/{1}
+gi_uinf_6=Radresistense: {0}/{1}
+gi_uinf_7=Stamina: {0}/{1}
+gi_uinf_8=Food: {0}/{1}
+gi_uinf_9=Water: {0}/{1}
+
+gi_uinf_10=Workpoints: {0}
+gi_uinf_11=Experience: {0} / {1}
+
+// Окно стат
+gi_fs_itm=Total pescado: {0}\nPeso Total: {1}\n
+gi_fs_itm2=Recorde Pessoal {0}
+
+
+//Fraction window
+gi_frac_max=Reached maximum reputation level
+gi_frac_i=Fraction \"{0}\": {1}
+gi_frac_no=NO KNOWN FRACTIONS
+
+// Окно титулов
+gi_tit_ch=To title change:
+gi_tit_chy=Can change
+gi_tit_inf=Chosen title: {0}\nBonuses: {1}
+gi_tit_sel=Chose
+
+// Окно навыков
+gi_um_passperk=Passive perks
+gi_um_lim=Limit: {0}/{1}
+gi_um_lv= lvl {0}
+gi_um_nt= not learned
+gi_um_mx= maximum
+gi_um_nosel=PERK NOT CHOSEN
+
+
+//садки
+gi_sadokfull=<color='#801000'>CESTO DE PEIXE CHEIO! Quantidade: {0} pçs. Peso total: {1}</color>
+gi_sadoknone=<color='#801000'>SEM CESTO DE PEIXE!</color>
+gi_sadok=<color='#000000'>Qtde: {0} / {1} pçs   Peso total: {2} / {3}</color>
+gi_nlheader1=<color='#000040'>Atingiu novo nível {0}</color>
+gi_nlheader2="NOVO NÍVEL: {0}"
+
+//новый уровень
+gi_nl0=Health +{0}\n
+gi_nl1=Stamina +{0}\n
+gi_nl2=Radresistance +{0}\n
+gi_nl3=Food +{0}\n
+gi_nl4=Water +{0}\n
+
+//Новое достижение
+gi_nach=Nova Conquista\n{0}
+gi_ach=Conquista
+
+//Холодильник
+gi_fridgiceno=<color='#ff6000'>SEM ESPAÇO NO FREEZER! Quantidade: {0}/{1}</color>
+gi_fridgice=No freezer: {0} / {1} pcs
+gi_fridge=Freezer
+
+//Сообщ. в чат
+gi_cachfish=Peixe fisgado
+gi_letgohe=Vamos {0}
+gi_letgoshe=Vamos {0}
+gi_cachhe=Pegou {0}
+gi_cachshe=Pegou {0}
+
+cht_delfrendmsg=Player deleted from friends
+
+#Added 19.12.2016
+#------------------------------------
+crft_useres=Recursos utilizados: {0}/{1}
+crft_wpnpr=<color='#000030'>Source item</color>
+crft_qlt=<color='#003000'> Quality increasing, chance: {0}%</color>"
+frnd_ingame=Your friend {0} came into game
+
+
+#Added 18.12.2016
+#------------------------------------
+stng_no_dress=Don’t show suits (experimental)
+stng_frmrate=Frame frequency
+stng_frm0=Maximum FPS
+stng_frm1=Set limitation to 60 FPS
+stng_frm2=Set limitation to 30 FPS
+
+stng_reflect=Reflections in water
+stng_rflct0=Simplified water
+stng_rflct1=Reflect only sky and earth
+stng_rflct2=Reflect everything
+
+
+#Added 17.12.2016
+#------------------------------------
+cht_private=PRIVADO
+cht_ignore=IGNORE
+cht_copy=COPIA
+cht_tofrend=ADICIONA AMIGO
+cht_tofrendno=APAGA AMIGO
+cht_tofrendmsg=Amigo foi adicionado
+cht_ae=Amigo já foi adicionado
+cht_maxcnt=Não mais que {0} amigos!
+
+
+#Added 12.12.2016
+#------------------------------------
+no_steam=STEAM client not found!
+packshop=Package shop
+hlp_packet=Game packages for reals\nfor fast start
+pck_qst=<size=22>FAST START</size>\nGAME PACKAGE
+pck_qdtinfo=<b>The Rod Junior </b>\n<size=10>5 kg, 3.5m depth</size>\n\n<b>The Reel JuniorRoll </b>\n<size=10>Friction  4.8 kg, 10 strengthening, 10 compensation</size>\n\n<b>Fishing Line JuniorLine</b>\n<size=10>5 kg, 150 meters</size>\n\n<b>The Float Balance-B4-</b>\n<size=10>Enlarged, +biting sound indicator</size>\n\n +50 ergs
+pck_prim=All items are personal and will be delivered by in-game mail after purchasing.
+pck_buy=Compre
+chat_open=CHAT
+
+#------------------------------------
+specoff=SPECIAL OFFER
+specwobprise=+Special Wobbler VOB-I-ICE\nas a present
+
+#Added 05.12.2016
+#------------------------------------
+bs_cost=Custo: {0}
+bs_lev=Nível: {0} à {1}
+bs_lowlv=Nível baixo!
+bs_hilv=Seu nível é muito alto!
+
+
+bs_nomoney=Não tem dinheiro!
+bs_noprip=Não tem suprimento!
+
+
+wpn_izn=\nDurabilidade:
+wpn_onlym=<color='#{0}'>Masculino</color>
+wpn_onlyw=<color='#{0}'>Feminino</color>
+
+wpn_rod1=Peso: {0}kg\n
+wpn_rod2=Tamanho: {0}m\n 
+wpn_rod3=Profundidade: {0}m
+wpn_rod4=Isca: {0}
+
+wpn_lv=lvl.
+wpn_lvf=Nível
+wpn_cmp=Componente
+
+
+
+#Added 04.12.2016
+#------------------------------------
+silence=<color='#ff0000'>Moderator mute you. Left {0} min.</color>
+crft_none=NOTHING
+crft_krit=<color='#ffdd40'>Sorte! Crítico: {0}</color>
+crft_konstr=Construction
+crft_sbor=Assembling
+crft_ingr=Ingredients:
+crft_cnt=Need {0} pcs in stock {1}
+crft_from=de
+crft_to=até
+crft_treb=Requirements:
+crft_norec=No recipes
+crft_norec2=NO RECIPES
+crft_unl=Unlimited
+crft_recnt=Recipes amount:
+crft_cost=Work cost:
+crft_costwp=Workpoints (WP):
+crft_cnt2={0}/nneeded {1} pcs
+crft_use=In used: {0}+{1}={2}
+crft_selwpn=Take item
+crft_crft=Criação
+crft_btn1=Criar
+crft_btn2=Criar tudo
+
+#Added 02.12.2016
+#------------------------------------
+hlp_map=For fishing, open map by using compass icon and choose location.
+hlp_life=Look at your health line! If you die, you lose some experience, all fish and some durability on wearing stuff! You can be cured at the doctor.
+hlp_time=Game time. One game day are two real hours.
+hlp_ropen=Take/remove rod
+hlp_ds=Depth settings
+hlp_3dw=First-person view
+hlp_roll=Pull fish by alternately pressing left and right mouse button (or G-H on keyboard). Do not allow voltage to red line or your tackles will broken! Do not pull the fish on rocks and ground - big chanse to lose it.
+exp_pb=Next lvl experience:
+
+
+#Added 01.12.2016
+#------------------------------------
+chat_info=Info
+chat_loc=Loc
+
+chatconnect=Channel connected
+qd_prise=Prêmio
+usercntinfo=Online: {0} On location: {1}
+wplabel=Workpoints: 
+
+qd_prise_exp=+{0} exp;  
+qd_prise_rep=+{0} rep; 
+qd_prise_titul=+titul "{0}"  
+
+qd_header=Missões
+qd_get=Aceitar
+qd_cancel=Cancelar
+qd_refresh=Atualizar
+
+qd_tasktime=Tempo para nova missão:
+qd_taskcount=Missões realizadas: {0}/{1}
+qd_anyfish=Qualquer peixe
+
+qd_cash=INCOME
+qd_res=RESOURCES
+qd_rep=EXP & REP
+
+#Added 30.11.2016
+#------------------------------------
+selpersbtn=Level: {0}
+deltext=<color='#800000'>Will be removed {0}</color>
+
+
+
+#Added 26.11.2016
+#------------------------------------
+crpers_name=Name
+crpers_all=All
+crpers_top=Body
+crpers_bottom=Legs
+crpers_ground=Main color
+crpers_cam=Camouflage
+crpers_intens=Intensity
+crpers_scale=Scale
+crpers_rot=Turn
+crpers_hue=Tone
+crpers_haircol=Hair color
+crpers_barbudos=Beard
+crpers_much=Mustache
+crpers_confism=Confirmar
+crpers_cancel=Cancelar
+
+
+startgame=JOGAR
+steamconnect2=I have an existing account
+delacc=Delete account
+delaccconfirm=You really want to delete your account?
+newletter=To send messages, your character must up level 5
+newrega=CONGRATULATIONS!/nYou have successfully signed up for the game!/n/nCreate your character now and go fishing!
+
+
+#Added 20.11.2016
+#------------------------------------
+hellost=Olá, {0}
+autherror=Erro de login
+oldvermsg=Versão antiga!/nVersão atual:
+steamider=Seu Steam não está compatível com esse jogo
+steamno=Steam not running!
+noemail=Desculpe, sua conta está banida.
+steamconnect=Link Steam.
+steampaninfo=Bind Steam account will gave you all his functional.
+
+staccok=Parabéns, sua conta está vinculada ao Steam. Agora você terá conquistas, fará pagamentos e outras funções do Steam.
+staccerr=Erro! Esta conta do Steam já está vinculada a outra conta.
+stacheaderprocess=Binds...
+stacheadererror=<color='#ff2000'>Error binding!</color>
+stacheaderok=Finalizado!
+
+togamebtn= JOGAR
+selpers=Select character
+delpers=Delete character
+newpers=Create character
+buykey=Compre
+realshop=Store reals
+stshoplabel=Buy with STEAM 
+stshoprubl=Buy for rubles
+stshopsel=Choise
+
+viptxt=Custo da venda de peixe +25%/nTimeout para nova missão -50%/nExperiência adquirida com peixes +50%/nExperiência adquirida para completar missão +25%
+vipbuycost=Compre 350 <color='#40a0ff'>®</color> por 30 dias
+vipbuykey=Compre VIP
+
+#context menu options
+cntx_improve=Uprgades
+cntx_refine=Conversion
+cntx_rem=Repair
+cntx_razb=Disassembly
+cntx_use=Usar
+cntx_teach=Learn
+cntx_teachexp=+300 skill points
+cntx_wpnauk=To stuff auction
+cntx_resauk=To auction
+cntx_drop=Descartar
+cntx_close=Fechar
+
+#Added 09.11.2016
+#------------------------------------
+close=Close
+pass=Password
+mempass=Remember me.
+reg=Create account.
+serv_off1=Ouch! The server rejected your connection
+serv_off2=Server is full or down/nChoose another server
+
+
+settings=Configurações
+set_view=Realistic view on float
+set_stui=Standart UI position
+set_volamb=Environment volume
+set_volmus=Music volume
+set_dist=Visibility range
+set_graf=Graphics settings
+
+
+#-----
+fwgt_sml_m=Jovem
+fwgt_sml_w=Jovem
+fwgt_big_m=
+fwgt_big_w=
+fwgt_trof_m=Grande
+fwgt_trof_w=Grande
+fwgt_uniq_m=Troféu
+fwgt_uniq_w=Troféu
+
+time_format1={0} min
+time_format2={0}h {1} min
+time_format3={0}d {1}h {2} min
+
+wgt_gr=gr
+wgt_kg=kg 
+
+release=Soltar (J)
+brag=Brag
+getfish=Aceitar 
+withquest=Sem Missão
+altosad=Jogar o peixe sempre no cesto
+sadok=Cesto
+csadok=Cesto atual
+sadokfull=<color='#ff6000'>CESTO DE PEIXES ESTÁ CHEIO!</color>
+
+#------------------------------------
+
+error=Erro
+achive_text=[F_KLEV]% increase in intensity of this type of fish.
+no_move_sadok=You can't move fish tank,/n while there fish!
+
+#quality
+qname_0=ruim
+qname_1=comum
+qname_2=bom
+qname_3=raro
+qname_4=único
+qname_5=legendário
+qname_6=ouro
+
+
+# Active objects
+active_obj_1=Mail
+active_obj_2=Workbench
+active_obj_3=Criar Iscas
+active_obj_4=Simple craft
+active_obj_5=Table with tools
+active_obj_6=Fridge
+active_obj_7=Assembly table
+
+# Craft
+no_ingridients=Not enough ingredients!
+no_inventory=No space in inventory!
+no_money=Not enough money!
+no_workpoint=Not enough work points!
+no_user_recept=No recipe!
+no_recept=No recipe!
+no_stanok=Wrong bench!
+
+
+
+
+[BAG]
+bag1_name=Equipamentos
+bag1_info=Equipamentos
+
+bag2_name=Acessórios
+bag2_info=Linhas, molinetes, bóias, anzóis
+
+bag3_name=Equipamento
+bag3_info=Equipmentos
+
+bag4_name=Medicina
+bag4_info=Medicine, food, drink
+
+bag5_name=Contruir
+bag5_info=Craft ingrediants, components and recipes
+
+bag6_name=Alarmes
+bag6_info=Alarmes
+
+bag7_name=Isca
+bag7_info=Iscas naturais e de frutas
+
+bag8_name=Moeda
+bag8_info=Moedas
+
+bag9_name=Coleções
+bag9_info=Coleções
+
+bag10_name=Misc
+bag10_info=Vários itens não listados nas outras categorias
+
+bag11_name=Artificial
+bag11_info=Iscas artificiais
+
+bag12_name=Atrativos
+bag12_info=Massas, atrativos para peixes
+
+bag13_name=Anzóis
+bag13_info=Anzóis
+
+bag14_name=Fly
+bag14_info=Fly Fishing
+
+bag52_name=Cesto
+bag52_info=Espaço para guardar os peeixes
+
