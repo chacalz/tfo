@@ -1,3 +1,4 @@
-AtualizaÁ„o 28.8
-* Fisga autom·tica na spinning e na Fly desativados
-* PolÙnia - È permitido caminhar na ·gua a uma profundidade de 0,8 metros
+
+Atualiza√ß√£o 28.8
+* Fisga autom√°tica na spinning e na Fly desativados
+* Pol√¥nia - √© permitido caminhar na √°gua a uma profundidade de 0,8 metros
