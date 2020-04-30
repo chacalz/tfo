@@ -87,7 +87,7 @@
       <par2>---</par2>
       <par3>---</par3>
     </type>
-    <type id="16" name="Tanque de peixe">
+    <type id="16" name="Cesta de peixe">
       <par1>parametr1 - which can withstand weight of fish</par1>
       <par2>parametr2 - which can withstand amount of fish</par2>
       <par3>
