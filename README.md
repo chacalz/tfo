@@ -8,7 +8,7 @@ Só não traduzi os equipamentos e os peixes, pois com isso fica fácil da gente
 
 Só baixar o Patcher feito pelo fortunecafe e sempre executar por ele.
 
-https://github.com/andyde92/TheFisher-Online---Patcher-Vers-o-em-Portugu-s-PT-BR/archive/master.zip
+[DOWNLOAD](https://github.com/andyde92/TheFisher-Online---Patcher-Vers-o-em-Portugu-s-PT-BR/archive/master.zip)
 
-Thank you @github/andyde9 (fortunecafe)!
+Thank you fortunecafe!
 
