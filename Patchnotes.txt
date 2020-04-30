@@ -1,8 +1,9 @@
-Atualiza√ß√£o 1.28.8
-- Fisga autom√°tica na spinning e na Fly desativados
-- Pol√¥nia: Agora √© permitido caminhar na √°gua a uma profundidade de 0,8 metros.
+AtualizaÁ„o 1.28.8
+- Fisga autom·tica na spinning e na Fly desativados
+- PolÙnia: Agora È permitido caminhar na ·gua a uma profundidade de 0,8 metros.
 
-Atualiza√ß√£o 1.28.7
+AtualizaÁ„o 1.28.7
 - Foi corrigido um erro no comportamento da Fly Fishing
-- Adicionado indica√ß√£o do tipo das flies (DRY ou WET)
-- Imers√£o 25% mais r√°pida dos flies WET 
+- Adicionado indicaÁ„o do tipo das flies (DRY ou WET)
+- Imers„o 25% mais r·pida dos flies WET
+
