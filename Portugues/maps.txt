@@ -3,7 +3,7 @@
 1_Info=
 
 2_Name=Rússia: Rio Pra
-1_Info=Rio da Rússia
+1_Info=
 
 3_Name=França: Lagoas de Perruchet 
 1_Info=
