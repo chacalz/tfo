@@ -5,4 +5,4 @@ Atualização 1.28.8
 Atualização 1.28.7
 - Foi corrigido um erro no comportamento da Fly Fishing
 - Adicionado indicação do tipo das flies (DRY ou WET)
-- Imersão 25% mais rápida dos flies WET
+- Imersão 25% mais rápida dos flies WET 
