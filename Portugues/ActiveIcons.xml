@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <icon_data>
   <icon id="1" name="Rad-contamination" info="You’ve received radiation contamination by the amount of [X] rad/sec" />
   <icon id="2" name="Pesca Proibida" info="Você não pode pescar nessa área." />
