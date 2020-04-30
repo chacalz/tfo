@@ -1,4 +1,3 @@
-
 Atualização 28.8
 * Fisga automática na spinning e na Fly desativados
 * Polônia - é permitido caminhar na água a uma profundidade de 0,8 metros
