@@ -1,21 +1,28 @@
-AtualizaÃ§Ã£o 1.28.8
-- Fisga automÃ¡tica na spinning e na Fly desativados
-- PolÃ´nia: Agora Ã© permitido caminhar na Ã¡gua a uma profundidade de 0,8 metros.
+Atualização 1.29.0
+Evento em 01/05 até 11/05:
+- Experiência para pescar +25%
+- Custo de venda de peixe +25%
+- Set "SeaCast" foi colocado temporariamente na loja.
+- Pacote "Fundador do Clube" removido da loja.
 
-AtualizaÃ§Ã£o 1.28.7
+Atualização 1.28.8
+- Fisga automática na spinning e na Fly desativados
+- Polônia: Agora é permitido caminhar na água a uma profundidade de 0,8 metros.
+
+Atualização 1.28.7
 - Foi corrigido um erro no comportamento da Fly Fishing
-- Adicionado indicaÃ§Ã£o do tipo das flies (DRY ou WET)
-- ImersÃ£o 25% mais rÃ¡pida dos flies WET
+- Adicionado indicação do tipo das flies (DRY ou WET)
+- Imersão 25% mais rápida dos flies WET
 
-AtualizaÃ§Ã£o 1.28.6
-- Arrumado animaÃ§Ãµes das Fly Fishings
+Atualização 1.28.6
+- Arrumado animações das Fly Fishings
 - Leaders especiais agora para Fly Fishing
 - Novas iscas de Fly na loja
 - Iscas flies DRY e WET adicionada na loja
 
-AtualizaÃ§Ã£o 1.28.4 e 1.28.5
-- CorreÃ§Ã£o das animaÃ§Ãµes de vara fundo
-- Ajuste na distÃ¢ncia das varas de mÃ£o
-- Outras pequenas correÃ§Ãµes
+Atualização 1.28.4 e 1.28.5
+- Correção das animações de vara fundo
+- Ajuste na distância das varas de mão
+- Outras pequenas correções
 
 Traduzido por: Chacal_Z
