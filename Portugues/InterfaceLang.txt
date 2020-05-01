@@ -88,7 +88,7 @@ club_err4=Nome ou TAG já existe
 btn_qtaskvip=Diárias
 
 dntpck_2_name=Pacote "SeaCast"
-dntpck_2_info=O kit contém uma vara de pescar de fundo pesada (52 kg), um carretel multiplicador, linha de pesca e 500 pratas
+dntpck_2_info=O kit contém uma vara de pescar de fundo pesada (52 kg), um carretel multiplicador, linha de pesca e 500 moedas.
 
 dntpck_1_hint=* O preço para sua região pode variar.
 dntpck_1_name=Pacote "BeeCast"
