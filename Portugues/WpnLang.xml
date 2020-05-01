@@ -1489,8 +1489,8 @@
       <info>Open it to find out. what's inside</info>
     </weapon>
     <weapon id="1227">
-      <name>®1000 check</name>
-      <info>Bearer check for 1,000 coins</info>
+      <name>®1000 Cheque</name>
+      <info>Cheque ao portador de 1.000 moedas</info>
     </weapon>
     <weapon id="1228">
       <name>
@@ -1520,12 +1520,12 @@
       </info>
     </weapon>
     <weapon id="1233">
-      <name>®5000 check</name>
-      <info>Bearer check for 5,000 coins</info>
+      <name>®5000 Cheque</name>
+      <info>Cheque ao portador de 5.000 moedas</info>
     </weapon>
     <weapon id="1234">
-      <name>®10000 check</name>
-      <info>Bearer check for 10,000 coins</info>
+      <name>®10000 Cheque</name>
+      <info>Cheque ao portador de 10.000 moedas</info>
     </weapon>
     <weapon id="1235">
       <name>
@@ -1552,7 +1552,7 @@
     </weapon>
     <weapon id="1239">
       <name>Leech</name>
-      <info>  A lot of big fish adore this bait.</info>
+      <info>  Muitos peixes adoram essa isca.</info>
     </weapon>
     <weapon id="1240">
       <name>
@@ -1561,22 +1561,22 @@
       </info>
     </weapon>
     <weapon id="1241">
-      <name>VIP 1 day</name>
-      <info>Gives 1 day premium bonus.
+      <name>VIP 1 dias</name>
+      <info>Dá um bônus premium de 1 dia.
 
-To activate press right mouse button on the item and select "Use".</info>
+Para ativar, pressione o botão direito do mouse no item e selecione "Usar".</info>
     </weapon>
     <weapon id="1242">
-      <name>VIP 7 days</name>
-      <info>Gives 7 days premium bonus.
+      <name>VIP 7 dias</name>
+      <info>Dá um bônus premium de 7 dias.
 
-To activate press right mouse button on the item and select "Use".</info>
+Para ativar, pressione o botão direito do mouse no item e selecione "Usar".</info>
     </weapon>
     <weapon id="1243">
-      <name>VIP 15 days</name>
-      <info>Gives 15 days premium bonus.
+      <name>VIP 15 dias</name>
+      <info>Dá um bônus premium de 15 dia.
 
-To activate press right mouse button on the item and select "Use".</info>
+Para ativar, pressione o botão direito do mouse no item e selecione "Usar".</info>
     </weapon>
     <weapon id="1244">
       <name>
