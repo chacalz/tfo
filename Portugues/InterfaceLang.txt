@@ -88,7 +88,7 @@ club_err4=Nome ou TAG já existe
 btn_qtaskvip=Diárias
 
 dntpck_2_name=Pacote "SeaCast"
-dntpck_2_info=O kit contém uma vara de pescar spinning pesada (52 kg), um carretel multiplicador, linha de pesca e 500 moedas.
+dntpck_2_info=O kit contém uma vara de pesca spinning pesada (52 kg), um carretel multiplicador, linha de pesca e 500 moedas.
 
 dntpck_1_hint=* O preço para sua região pode variar.
 dntpck_1_name=Pacote "BeeCast"
@@ -891,17 +891,17 @@ wpn_med2=Life damage: <color='#201000'>{0}</color>\n
 wpn_tank1=Capacidade em Peso: {0}
 wpn_tank2=Capacidade em Quantidade: {0} pçs
 
-wpn_bait1=Attractiveness: {0}%
-wpn_popl1=+Bite signalling alerter
-wpn_hook1=Sharpness: {0} %\n
+wpn_bait1=Atratividade: {0}%
+wpn_popl1=+Alerta de sinalização da mordida
+wpn_hook1=Fisga: {0} %\n
 wpn_hook2=Tamanho: {0}
 
-wpn_line1=Breaking weight: {0} kg\n
+wpn_line1=Peso de ruptura: {0} kg\n
 wpn_line2=Comprimento: {0} m
 
-wpn_cat1=Strengthening:
-wpn_cat2=Compensation:
-wpn_cat3=Is absent
+wpn_cat1=Reforço:
+wpn_cat2=Compensação:
+wpn_cat3=Está ausente
 wpn_cat4=Fricção:
 
 #Added 27.03.2017
