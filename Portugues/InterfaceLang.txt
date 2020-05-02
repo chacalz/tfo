@@ -88,11 +88,11 @@ club_err4=Nome ou TAG já existe
 btn_qtaskvip=Diárias
 
 dntpck_2_name=Pacote "SeaCast"
-dntpck_2_info=O kit contém uma vara de pesca spinning pesada (52 kg), um carretel multiplicador, linha de pesca e 500 moedas.
+dntpck_2_info=O kit contém uma vara de pesca spinning pesada (52 kg), uma carretilha de perfil alto, uma linha de pesca e 500 moedas.
 
 dntpck_1_hint=* O preço para sua região pode variar.
 dntpck_1_name=Pacote "BeeCast"
-dntpck_1_info=O kit contém uma vara de pesca spinning leve (5 kg, + 75% da experiência adquirida), um carretel de baixo perfil, linha de pesca e um conjunto aleatório de iscas UL (3 peças)
+dntpck_1_info=O kit contém uma vara de pesca spinning leve (5 kg, + 75% da experiência adquirida), uma carretilha de perfil baixo, uma linha de pesca e um conjunto aleatório de iscas UL (3 peças)
 
 
 wptype_offset=Offset hook
