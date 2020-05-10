@@ -38,7 +38,7 @@ type_32=Tamanho raro
 type_100=Peixe Grande
 type_101=Por "Projeto Cotoco MAR"
 type_102=Por "Instituto INHO da Perca"
-type_103=Por "IBAMA - Projeto TAMAR"
+type_103=Por "Projeto Catfish 3Kg do Cid"
 type_104=Por "Florestal do Sapo Cego"
 
 type_105=Por "Instituto Pulo do Bass"
