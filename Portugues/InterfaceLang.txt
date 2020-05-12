@@ -661,12 +661,12 @@ droprodmsg1=<color='#ff0000'>You broke the rod</color>
 droplinemsg1=<color='#ff0000'>You lost the line: {0}</color>
 droplinemsg2=<color='#ff0000'>You tore the line: {0} m</color>
 
-msg_other=TOO CLOSE!
+msg_other=MUITO PERTO!
 delcharmsg2=Are you sure you want to delete the character {0}?
 delcharmsg1=Character deleting
 rewgt_msg=Inventory full - check your trashcan!
-fishdrop_1=<color='#ff8000'>The fish got away</color>
-fishdrop_2=<color='#ff8000'>The fish used all the line</color>
+fishdrop_1=<color='#ff8000'>O peixe escapou</color>
+fishdrop_2=<color='#ff8000'>O peixe usou toda sua linha</color>
 ust_msg=Tiredness!
 inv_bonus=<color='#002040'>Effects on wearing:</color>
 exitmsg_1=Que sair do jogo?
@@ -1297,12 +1297,12 @@ cntx_close=Fechar
 
 #Added 09.11.2016
 #------------------------------------
-close=Close
-pass=Password
-mempass=Remember me.
-reg=Create account.
-serv_off1=Ouch! The server rejected your connection
-serv_off2=Server is full or down/nChoose another server
+close=Fechar
+pass=Senha
+mempass=Lembrar-me.
+reg=Criar Conta.
+serv_off1=Eita! O Servidor rejeitou sua conexão!
+serv_off2=/nServidor cheio ou desligado/nEscolha outro servidor!
 
 
 settings=Configurações
