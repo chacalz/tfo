@@ -2664,7 +2664,7 @@ Size 3</info>
     </weapon>
     <weapon id="1445">
       <name>Muckworm</name>
-      <info>Isca universal para capturar várias espécies de peixes.</info>
+      <info>Isca universal para pegar várias espécies de peixes.</info>
     </weapon>
     <weapon id="1446">
       <name>Kitana FH-1</name>
@@ -2723,16 +2723,16 @@ Size 3</info>
       <info>The attractant made by own recipe</info>
     </weapon>
     <weapon id="1458">
-      <name>Attractant "Carp"</name>
-      <info>Ready-made attractant for crucian</info>
+      <name>Attractant "For Carp"</name>
+      <info>Atrativo para Carp</info>
     </weapon>
     <weapon id="1459">
       <name>Attractant "For tench"</name>
-      <info>Ready-made attractant for tench</info>
+      <info>Atrativo para Tench</info>
     </weapon>
     <weapon id="1460">
       <name>Attractant "For bream"</name>
-      <info>Ready-made attractant for bream</info>
+      <info>Atrativo para Bream</info>
     </weapon>
     <weapon id="1461">
       <name>My mixture</name>
@@ -2744,7 +2744,7 @@ Size 3</info>
     </weapon>
     <weapon id="1463">
       <name>Boil green</name>
-      <info>Boyles - isca artificial para capturar Grass Carp e Silver Carp.</info>
+      <info>Boyles - isca artificial para pegar Grass Carp e Silver Carp.</info>
     </weapon>
     <weapon id="1464">
       <name>
@@ -3689,15 +3689,15 @@ Size 3</info>
     </weapon>
     <weapon id="1652">
       <name>CRL TroutMaster M1</name>
-      <info>Isca leve giratória para capturar trutas cautelosas</info>
+      <info>Isca leve giratória para pegar trutas cautelosas</info>
     </weapon>
     <weapon id="1653">
       <name>CRL TroutMaster M2</name>
-      <info>Isca leve giratória para capturar trutas cautelosas</info>
+      <info>Isca leve giratória para pegar trutas cautelosas</info>
     </weapon>
     <weapon id="1654">
       <name>CRL TroutMaster M3</name>
-      <info>Isca leve giratória para capturar trutas cautelosas</info>
+      <info>Isca leve giratória para pegar trutas cautelosas</info>
     </weapon>
     <weapon id="1655">
       <name>CRL Marss M1</name>

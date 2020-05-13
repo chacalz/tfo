@@ -41,9 +41,9 @@ type_102=Por "Instituto INHO da Perca"
 type_103=Por "Projeto Catfish 3Kg do Cid"
 type_104=Por "Florestal do Sapo Cego"
 
-type_105=Por "Instituto Pulo do Bass"
-type_106=Por "Universidade Taxinha do Sol"
-type_107=Por "Reserva Nacional Buraco do Naka"
+type_105=Por "Instituto Fernando de Noronha"
+type_106=Por "Universidade Federal de Abrolhos"
+type_107=Por "Reserva Nacional Porto de Galinhas"
 type_108=Salmon Roe
 
 
