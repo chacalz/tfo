@@ -1280,7 +1280,7 @@ stshoplabel=Buy with STEAM
 stshoprubl=Buy for rubles
 stshopsel=Choise
 
-viptxt=Custo da venda de peixe +25%/nTimeout para nova missão -50%/nExperiência adquirida com peixes +50%/nExperiência adquirida para completar missão +25%
+viptxt=Áreas dos Mapas mais nítido/nCusto da venda de peixe +25%/nTimeout para nova missão -50%/nExperiência adquirida com peixes +50%/nExperiência adquirida para completar missão +25%
 vipbuycost=Compre 350 <color='#40a0ff'>®</color> por 30 dias
 vipbuykey=Compre VIP
 
