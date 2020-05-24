@@ -5,12 +5,5 @@ Atualização 1.29.1 (Revisão da Tradução v.2)
 - Correções de bugs
 - Término do Evento de Maio
 
-Atualização 1.29.0 (Revisão da Tradução v.5)
-Evento de Maio 01/05 até 11/05:
-- Experiência para pescar +25%
-- Custo de venda de peixe +25%
-- Set "SeaCast" foi colocado temporariamente na loja.
-- Pacote "Fundador do Clube" removido da loja.
-
 Traduzido por: Chacal_Z
 
