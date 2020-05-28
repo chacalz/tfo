@@ -1,5 +1,10 @@
 ﻿[INTERFACE]
 
+set_grouplb=Exibir Fricção
+set_groupp1=Junto
+set_groupp2=Separado
+
+-------------------
 fly_mtype0=Isca DRY
 fly_mtype1=Isca WET
 
@@ -150,9 +155,7 @@ naviinfo2=Distância do marcador
 
 boat_inf6=[U] SENTAR
 
-set_grouplb=Exibir Fricção
-set_groupp1=Junto
-set_groupp2=Separado
+
 
 key_move_frwrd=Frente
 key_move_bckwrd=Trás
