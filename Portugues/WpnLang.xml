@@ -4360,15 +4360,15 @@ Iscas tipo "Wet" são melhores recolhendo juntamente com o leader cônico.</info
     </weapon>	
 	
     <weapon id="1795">
-      <name>Alarme Médio</name>
+      <name>Bell tone middle</name>
       <info>      </info>
     </weapon>
     <weapon id="1796">
-      <name>Alarme Alto</name>
+      <name>Bell tone high</name>
       <info>      </info>
     </weapon>
     <weapon id="1797">
-      <name>Alarme Baixo</name>
+      <name>Bell tone low</name>
       <info>      </info>
     </weapon>	
   </weapons>
