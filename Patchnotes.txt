@@ -1,5 +1,5 @@
-Atualização 1.29.2 (revisão 1)
-- Adicionado Alarmes Baixos, Médios e Altos
+Atualização 1.29.2 (revisão 2)
+- Adicionado novos Alarmes a loja: Baixo, Médio e Alto
 
 Atualização 1.29.2
 - Servidor de Login com erros. Woolf avisou que o HD de login está falhando e não tem nenhum alemão (O jogo está hospedado na alemanha) que trabalha no Data Center no final de semana para resolver o problema.
