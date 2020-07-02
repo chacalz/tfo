@@ -5,10 +5,14 @@
     <turn id="1" name="O melhor da França"   info="--"/>   
     <turn id="2" name="Mestre da Truta"  info="--"/>   
     <turn id="3" name="Pesca di mare" info="--"/>   
-	<turn id="4" name="Finlandês" info="--"/>   
-	<turn id="5" name="" info="--"/>   
-    <turn id="6" name="" info="--"/>   	
-	<turn id="7" name="Stick blitz" info="--"/> 
+	<turn id="4" name="França" info="--"/>   
+	<turn id="5" name="Finlândia" info="--"/>   
+    <turn id="6" name="Finlândia" info="--"/>  	
+	<turn id="7" name="Stick blitz" info="--"/>
+	
+	<turn id="10" name="⭔Spinning-blitz" info="--"/>
+	<turn id="11" name="⭔Bottom-blitz" info="--"/> 
+	<turn id="12" name="⭔Fly-blitz" info="--"/> 
   </tnames>
 
 
