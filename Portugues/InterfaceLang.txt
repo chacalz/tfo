@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+
+dntpck_135_act=+ Cartão VIP de 7 dias como presente
+-------------------
+
 set_grouplb=Exibir Fricção
 set_groupp1=Junto
 set_groupp2=Separado

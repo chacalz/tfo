@@ -23,6 +23,8 @@
 8_Name=Polônia: Rio San
 8_Info=
 
+9_Name=Sérvia: Rio Danúbio
+
 10_Name=Irã: Mar Cáspio
 
 [LOC_NAMES]
