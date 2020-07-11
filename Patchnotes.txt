@@ -1,5 +1,5 @@
-Novo Mapa adicionado
-- Sérvia: Rio Danúbio
+Atualização 1.30.0
+- Novo Mapa adicionado: Sérvia, Rio Danúbio
 
 Atualização 1.29.3
 - Adicionado dois torneios de blitz (Pra river e Finlândia) no modo de teste (sem recompensas).
