@@ -4371,5 +4371,16 @@ Iscas tipo "Wet" são melhores recolhendo juntamente com o leader cônico.</info
       <name>Bell tone low</name>
       <info>      </info>
     </weapon>	
+	
+	
+    <weapon id="1798">
+      <name>Fly leader 11.2 kg</name>
+      <info>Leader cônico para Fly Fishing</info>
+    </weapon>
+	
+    <weapon id="1799">
+      <name>Fly leader 17.2 kg</name>
+      <info>Leader cônico para Fly Fishing</info>
+    </weapon>	
   </weapons>
 </wpnlang>
