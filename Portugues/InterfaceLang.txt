@@ -1,7 +1,7 @@
 ﻿[INTERFACE]
 
 
-dntpck_135_act=+ Cartão VIP de 7 dias como presente
+dntpck_135_act=+7 dias de cartão VIP como presente
 -------------------
 
 set_grouplb=Exibir Fricção
