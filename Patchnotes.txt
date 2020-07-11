@@ -1,12 +1,12 @@
+Novo Mapa adicionado
+- Sérvia: Rio Danúbio
+
 Atualização 1.29.3
 - Adicionado dois torneios de blitz (Pra river e Finlândia) no modo de teste (sem recompensas).
 - Correção de erros
 
 Atualização 1.29.2 (tradução 3ª revisão)
 - Adicionado novos Alarmes na loja: Sino Baixo, Médio e Alto
-
-Atualização 1.29.2
-- Servidor de Login com erros. Woolf avisou que o HD de login está falhando e não tem nenhum alemão (O jogo está hospedado na alemanha) que trabalha no Data Center no final de semana para resolver o problema.
 
 Traduzido por: Chacal_Z
 
