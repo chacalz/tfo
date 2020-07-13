@@ -1,6 +1,6 @@
 ﻿[INTERFACE]
 
-
+act_inf4e=[E] Abrir
 dntpck_135_act=+7 dias de cartão VIP como presente
 -------------------
 
