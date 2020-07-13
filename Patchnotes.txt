@@ -1,12 +1,11 @@
+Atualização 1.30.3
+- Novo Sistema de Freezer
+
+Atualização 1.30.2
+- Atualizado os modelos/animações das trutas
+
 Atualização 1.30.0
 - Novo Mapa adicionado: Sérvia, Rio Danúbio
-
-Atualização 1.29.3
-- Adicionado dois torneios de blitz (Pra river e Finlândia) no modo de teste (sem recompensas).
-- Correção de erros
-
-Atualização 1.29.2 (tradução 3ª revisão)
-- Adicionado novos Alarmes na loja: Sino Baixo, Médio e Alto
 
 Traduzido por: Chacal_Z
 
