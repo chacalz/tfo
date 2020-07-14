@@ -1,5 +1,14 @@
 ﻿[INTERFACE]
 
+gi_um_12=PERFIL
+-------------------
+clubInfo_1=Nível do Clube: {0}
+clubInfo_2=Membros: {0} / {1}
+clubInfo_3=Classificação: {0}
+
+capt_trof1=Troféus
+-------------------
+
 act_inf4e=[E] Abrir
 dntpck_135_act=+7 dias de cartão VIP como presente
 -------------------
