@@ -1,3 +1,9 @@
+Atualização 1.30.5
+- Um aumento significativo nas informações ao visualizar seu perfil e o perfil de um jogador.
+- É permitido dar isca de artesanato a outro jogador se o doador tiver um VIP
+- Agora, ao abrir informações sobre peixes em um lago, os peixes que você ainda não capturou terão apenas um esboço. Quando você captura um peixe, as informações indicam o peso máximo do peixe que você capturou e a isca foi capturada neste local.
+- Calibragem no número de certas espécies no local do Rio Danúbio (grayling, taimen, catfish, barbel)
+
 Atualização 1.30.4
 - Adicionada visualização das informações do jogador no chat.
 - Peixe no freezer classificado por peso.
@@ -5,12 +11,6 @@ Atualização 1.30.4
 
 Atualização 1.30.3
 - Novo Sistema de Freezer
-
-Atualização 1.30.2
-- Atualizado os modelos/animações das trutas
-
-Atualização 1.30.0
-- Novo Mapa adicionado: Sérvia, Rio Danúbio
 
 Traduzido por: Chacal_Z
 
