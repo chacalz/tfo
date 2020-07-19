@@ -609,11 +609,11 @@ rait_btn5=Maecenas
 specNY2018=+NORD TWS-III ICE
 happyny=HAPPY\nNEW YEAR!
 
-prk_max=MAXIMUM
-usr_inf_a1=Level: {0}\nIs located: {1}-{2}
+prk_max=MÁXIMO
+usr_inf_a1=Nível: {0}\nLocalização: {1}-{2}
 usr_inf_a2=NO ARTEL
-usr_inf_a3=Steam name: {0}
-usr_inf_a4=Account creation date\n{0:d.M.yyyy HH:mm}
+usr_inf_a3=Nome Steam: {0}
+usr_inf_a4=Conta criada em:\n{0:d.M.yyyy HH:mm}
 
 usr_inf_c1=Information
 
