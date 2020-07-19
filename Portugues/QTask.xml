@@ -1,6 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <quests>
 
+
+
+  <tropy_name>
+	<tr id="100" shortname="Troféu|«[IDNAME]»" name="Troféu «[IDNAME]»" 
+	info_1="Troféu concedido por estar entre os dez primeirosa melhores no torneio «[IDNAME]»" 
+	info_2="Troféu concedido pelo terceiro lugar no torneio «[IDNAME]»||As pessoas começam a reconhecê-lo nas ruas" 
+	info_3="Troféu concedido pelo segundo lugar no torneio «[IDNAME]»||Você foi convidado para participar de um programa de talentos!" 
+	info_4="Trophy is awarded for first place in the tournament «[IDNAME]»||Chuck Norris pediu seu autógrafo"/> 
+	
+	<tr id="200" shortname="Troféu|«[IDNAME]»" name="Troféu «[IDNAME]»" 
+	info_1="" 
+	info_2="Troféu concedido por capturar todos os tipos de peixes no lago «[IDNAME]»" 
+	info_3="" 
+	info_4=""/> 
+	
+	<tr id="300" shortname="Troféu|«[IDNAME]»" name="Troféu «[IDNAME]»" 
+	info_1="" 
+	info_2="Troféu concedido por capturar um determinado peso||Aumenta a intensidade de mordida desta espécie em 3%" 
+	info_3="Troféu concedido por capturar um determinado peso||Aumenta a intensidade de mordida desta espécie em 6%" 
+	info_4="Troféu concedido por capturar um determinado peso||Aumenta a intensidade de mordida desta espécie em 9%" /> 	
+
+  </tropy_name>
+
+
+
  <tnames>
     <turn id="1" name="O melhor da França"   info="--"/>   
     <turn id="2" name="Mestre da Truta"  info="--"/>   
@@ -14,6 +39,10 @@
 	<turn id="11" name="⭔Bottom-blitz" info="--"/> 
 	<turn id="12" name="⭔Fly-blitz" info="--"/> 
   </tnames>
+
+
+
+
 
 
   <qdynamic>

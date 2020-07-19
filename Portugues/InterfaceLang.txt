@@ -1,5 +1,22 @@
 ﻿[INTERFACE]
 
+trof_mtype_0=MADEIRA
+trof_mtype_1=COBRE
+trof_mtype_2=BRONZE
+trof_mtype_3=PRATA
+trof_mtype_4=OURO
+
+trof_capt_1=TROFÉUS DE CONQUISTAS
+trof_capt_100=TROFÉUS DO TORNEIO
+trof_capt_200=TROFÉUS DOS LAGOS
+trof_capt_300=TROFÉUS DE ESPÉCIES DE PEIXES
+
+stat_capt_luck=Peixe da Sorte
+stat_capt_love=Peixe do Amor
+untrof_count=Troféus {0} pcs
+
+-------------------
+
 stat_finfo1=Total {0} pcs
 stat_finfo2=Maior {0}
 
