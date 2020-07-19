@@ -19,19 +19,19 @@
   </p_categories>
   
   <tituls>
-    <titul id="0" catid="1" name="Untitled"/>
+    <titul id="0" catid="1" name="Sem título"/>
     
-    <titul id="100" catid="1" name="Swamp expert" />
-    <titul id="101" catid="1" name="Forest expert"/>
-    <titul id="105" catid="9" name="Mushroom hunter"/>
-    <titul id="106" catid="9" name="Lumberman"/>
-    <titul id="107" catid="10" name="Master-mechanic"/>
+    <titul id="100" catid="1" name="Especialista em pântanos" />
+    <titul id="101" catid="1" name="Especialista em floresta"/>
+    <titul id="105" catid="9" name="Caçador de cogumelos"/>
+    <titul id="106" catid="9" name="Lenhador"/>
+    <titul id="107" catid="10" name="Mestre-mecânico"/>
     
     
     <titul id="108" catid="11" name="Atomic fisher"/>
-    <titul id="109" catid="11" name="Administrator" color="1"/>
-    <titul id="110" catid="11" name="Lord of crucians"/>
-    <titul id="111" catid="3" name="Recordsman"/>
+    <titul id="109" catid="11" name="Administrador" color="1"/>
+    <titul id="110" catid="11" name="Lord das crucians"/>
+    <titul id="111" catid="3" name="Registrador"/>
     <titul id="112" catid="1" name="Shelter hero"/>
     <titul id="113" catid="3" name="Thrice born"/>
     <titul id="114" catid="3" name="Stew eater"/>
