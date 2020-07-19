@@ -1,16 +1,14 @@
+Atualização 1.31.0
+- Adição dde troféus de pesca
+
 Atualização 1.30.6
-*********************
-
 Experiência dinâmica para a captura de peixes adicionada
-
 - Se você abrir a guia "Peixe no lago", poderá ver a escala de sua captura deste peixe neste reservatório.
 - Com uma escala verde de 0 a 100%, você recebe um bônus por experimentar até 25% quando captura esse peixe
 - Com uma escala amarela de 100 a 300%, você não ganha experiência adicional
 - Quando a escala vermelha é > 300%, a experiência começa a diminuir ao capturar esse peixe neste reservatório.
-
 Se você parar de capturar esse tipo de peixe neste reservatório, em um mês a balança diminuirá para 0% e você poderá novamente receber experiência bônus.
 Observe que a escala refere-se apenas ao tipo de peixe neste reservatório. Se o peixe vive em outro corpo de água, haverá uma escala separada para ele.
-
 Além disso:
 Alterações na programação do torneio na França e na Finlândia. Agora, diferentes torneios acontecem todos os dias, alternadamente.
 Teste torneios de blitz no rio Pra e Finlândia agora com prêmios
