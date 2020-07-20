@@ -10,6 +10,8 @@
 	<aperk id="104" name="Eficiência" info="Aumenta em 3% a experiência de todos recursos do clube"/>
 	<aperk id="105" name="Universidade" info="Aumenta em 2 o número de sócios do clube"/>
 	
-	
+	<aperk id="106" name="Eficiência II" info="Aumenta em 7% a experiência de todos recursos do clube"/>
+	<aperk id="107" name="Experiência II" info="Aumenta em 2% a experiência de todos recursos do clube"/>
+	<aperk id="108" name="Valor II" info="Aumenta em 2% o valor de venda de peixes para todos os membros do clube"/>	
 	
 </perks>    
