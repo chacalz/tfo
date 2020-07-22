@@ -1,5 +1,13 @@
 ﻿[INTERFACE]
 
+craftwp_btn=Tabela de Construção
+dntpck_3_name=Pacote "Bee Picker"
+dntpck_3_info=O pacote contém um light picker (feeder rig 6 kg, + 50% a mais de experiência), uma carretilha e uma linha. Um pacote fechado pode ser dado de presente para um amigo.
+wpn_ibsize_4=Tamanho\n(Anzóis №3-5)
+//---------------------
+
+
+trof_give=TROFÉU RECEBIDO
 trof_mtype_0=MADEIRA
 trof_mtype_1=COBRE
 trof_mtype_2=BRONZE

@@ -4382,5 +4382,37 @@ Iscas tipo "Wet" são melhores recolhendo juntamente com o leader cônico.</info
       <name>Fly leader 17.2 kg</name>
       <info>Leader cônico para Fly Fishing</info>
     </weapon>	
+ 	
+    <weapon id="1800">
+      <name>Sea bunch</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1801">
+      <name>Caviar bag</name>
+      <info>Isca de Salmão Delicadas</info>
+    </weapon>
+    <weapon id="1802">
+      <name>BeeFeeder RSL</name>
+      <info>Lightweight professional feeder reel</info>
+    </weapon>
+    <weapon id="1803">
+      <name>BeeFluo 5.8</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1804">
+      <name>Complect BeePicker</name>
+      <info>The set contains a picker rod, a reel, a line from a "bee" feeder set from a well-known manufacturer Basser</info>
+    </weapon>
+    <weapon id="1805">
+      <name>SeaHook FH-4</name>
+      <info>Strong and sharp hooks in size 2/0 designed for saltwater fishing with bundles of baits</info>
+    </weapon>
+    <weapon id="1806">
+      <name>SeaHook FH-5</name>
+      <info>Strong and sharp hooks in size 5/0 designed for saltwater fishing with bundles of baits</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>

@@ -4,6 +4,12 @@
 
 
   <tropy_name>
+	<tr id="10" shortname="Troféu|«Overall rating»" name="Troféu «Overall rating»" 
+	info_1="O troféu é concedido por estar na classificação TOP 200" 
+	info_2="O troféu é concedido por estar na classificação TOP 50" 
+	info_3="O troféu é concedido por estar na classificação TOP 10" 
+	info_4="O troféu é concedido pelo 1º lugar na classificação geral"/>     
+  
 	<tr id="100" shortname="Troféu|«[IDNAME]»" name="Troféu «[IDNAME]»" 
 	info_1="Troféu concedido por estar entre os dez primeirosa melhores no torneio «[IDNAME]»" 
 	info_2="Troféu concedido pelo terceiro lugar no torneio «[IDNAME]»||As pessoas começam a reconhecê-lo nas ruas" 
