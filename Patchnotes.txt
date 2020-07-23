@@ -1,4 +1,4 @@
-Atualização 1.31.3
+Atualização 1.31.3 
 - Adicionada a capacidade de criar iscas grandes - "pacotes" para a captura de peixes grandes.
 
 Atualização 1.31.1
