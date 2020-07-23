@@ -1,5 +1,9 @@
 ﻿[INTERFACE]
 
+act_inf5=RODPOD
+act_inf5e=[E] Remover
+
+//---------------------
 craftwp_btn=Tabela de Construção
 dntpck_3_name=Pacote "Bee Picker"
 dntpck_3_info=O pacote contém um light picker (feeder rig 6 kg, + 50% a mais de experiência), uma carretilha e uma linha. Um pacote fechado pode ser dado de presente para um amigo.
