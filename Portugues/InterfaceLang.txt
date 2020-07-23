@@ -797,7 +797,7 @@ cht_msg2=Received {0} from fish sale
 cht_msg3=VIP patent has been bought
 cht_msg4=Not enough funds
 cht_msg5=Auction: sold {0} х{1} pcs
-cht_msg6=<color='#ff0000'>Server restarts in {0} seconds</color>
+cht_msg6=<color='#ff0000'>Servidor reiniciará em {0}</color>
 cht_msg7=Recorde: {0} {1}
 cht_msg8=<color='#ffa020'>Você estabeleceu o {0}</color>
 cht_msg9=<color='#ffa020'>Jogador {0} estabeleceu o {1}</color>

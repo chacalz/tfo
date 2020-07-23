@@ -2779,8 +2779,10 @@ Size 3</info>
       </info>
     </weapon>
     <weapon id="1470">
-      <name>--</name>
-      <info>
+      <name>Picker Bee-Gold</name>
+      <info>Picker class
+Uma versão light de equipamentos de fundo com cestos de alimentador.
++50% de exp
       </info>
     </weapon>
     <weapon id="1471">
@@ -4402,16 +4404,16 @@ Iscas tipo "Wet" são melhores recolhendo juntamente com o leader cônico.</info
       </info>
     </weapon>
     <weapon id="1804">
-      <name>Complect BeePicker</name>
-      <info>The set contains a picker rod, a reel, a line from a "bee" feeder set from a well-known manufacturer Basser</info>
+      <name>Pacote Bee Picker</name>
+      <info>Contem uma vara picker, um molinete, uma linha do modelo "bee" da fabricante Basser</info>
     </weapon>
     <weapon id="1805">
       <name>SeaHook FH-4</name>
-      <info>Strong and sharp hooks in size 2/0 designed for saltwater fishing with bundles of baits</info>
+      <info>Anzóis fortes e afiados no tamanho 2/0, projetados para a pesca em água salgada com montes de iscas</info>
     </weapon>
     <weapon id="1806">
       <name>SeaHook FH-5</name>
-      <info>Strong and sharp hooks in size 5/0 designed for saltwater fishing with bundles of baits</info>
+      <info>Anzóis fortes e afiados no tamanho 5/0, projetados para a pesca em água salgada com montes de iscas</info>
     </weapon>	
 	
   </weapons>
