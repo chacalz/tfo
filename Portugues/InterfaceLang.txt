@@ -333,6 +333,7 @@ wpn_hook_sz1=Pequeno
 wpn_hook_sz2=Médio
 wpn_hook_sz3=Grande
 wpn_hook_sz4=Enorme
+wpn_hook_sz5=Enorme
 
 recsts_btn1=POR NOME
 recsts_btn2=POR PESO
