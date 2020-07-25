@@ -1,20 +1,11 @@
-Atualização 1.31.5
-- Adicionados dois novos Pickers USens, disponíveis em qualquer loja
-- Adicionadas iscas Akma
-- Lula otimizada
-- Melhorada mecânica de instalar vara em um Rodpod
-- Adicionado o botão F9 para ocultar a interface (para criar capturas de tela)
-- Itália - mudança de terreno e dados geográficos
+Atualização 1.31.6
+- USens picker for 7.2 kg
+- Linha STK LineStar 2.8 kg line
+- Lider de 10.4 kg para flyfishing
+- Linha USens set (3, 5 and 7 kg)
+- A set of ultra-light and light USens reels
+- Adicionado novo peixe na Itália: bluefish
 - Correções de bugs
-
-Atualização 1.31.4
-- Adicionado o RODPOD (suporte triplo de vara)
-
-Atualização 1.31.3 
-- Adicionada a capacidade de criar iscas grandes - "pacotes" para a captura de peixes grandes.
-
-Atualização 1.31.1
-- Extensão do Rio Pra na Rússia
 
 Traduzido por: Chacal_Z
 
