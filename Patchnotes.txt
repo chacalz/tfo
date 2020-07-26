@@ -1,3 +1,10 @@
+Atualização 1.31.7
+- As misturas de alimentação são empilhadas em embalagens de 999 unidades.
+- O atrativo "Carp" foi retirado da venda. Os que você tem continuará a funcionar.
+- Adicionado o botão por classificação" às estatísticas dos peixes capturados.
+- Peixe Grayling - maior valor, experiência, raridade. Diminuição do peso médio, aumento do peso do troféu. Mudança completa da dieta para se aproximar da realidade.
+- Retexturização do Sea Zander, Grayling, Alosa
+
 Atualização 1.31.6
 - USens picker for 7.2 kg
 - Linha STK LineStar 2.8 kg line
