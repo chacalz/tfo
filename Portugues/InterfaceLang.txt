@@ -1468,7 +1468,7 @@ bag5_info=Craft ingrediants, components and recipes
 bag6_name=Alarmes
 bag6_info=Alarmes
 
-bag7_name=Isca
+bag7_name=Iscas
 bag7_info=Iscas naturais e de frutas
 
 bag8_name=Moeda

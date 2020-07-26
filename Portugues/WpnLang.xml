@@ -376,7 +376,7 @@
       </info>
     </weapon>
     <weapon id="1020">
-      <name>Bunch worms</name>
+      <name>Porção de Minhocas</name>
       <info>
       </info>
     </weapon>
@@ -3830,28 +3830,28 @@ Reels size: 1000-2500</info>
       </info>
     </weapon>
     <weapon id="1684">
-      <name>Связка рыбьего мяса</name>
-      <info>
+      <name>Porção de Peixe</name>
+      <info>Isca de porção de Peixe
       </info>
     </weapon>
     <weapon id="1685">
-      <name>Связка потрохов</name>
-      <info>
+      <name>Porção de Miúdos</name>
+      <info>Isca de Peixe e Offals
       </info>
     </weapon>
     <weapon id="1686">
-      <name>Связка ракового мяса</name>
-      <info>
+      <name>Porção de Crayfish</name>
+      <info>Um punhado de isca de Crayfish
       </info>
     </weapon>
     <weapon id="1687">
       <name>Sea livebait</name>
-      <info>
+      <info>Isca Viva
       </info>
     </weapon>
     <weapon id="1688">
-      <name>Связка моллюсков</name>
-      <info>
+      <name>Porção de Moluscos</name>
+      <info>Uma porção de Moluscos
       </info>
     </weapon>
     <weapon id="1689">
@@ -4385,12 +4385,12 @@ Iscas tipo "Wet" são melhores recolhendo juntamente com o leader cônico.</info
     </weapon>	
  	
     <weapon id="1800">
-      <name>Sea bunch</name>
+      <name>Porção do Mar</name>
       <info>
       </info>
     </weapon>
     <weapon id="1801">
-      <name>Caviar bag</name>
+      <name>Porção de Caviar</name>
       <info>Isca de Salmão Delicadas</info>
     </weapon>
     <weapon id="1802">
