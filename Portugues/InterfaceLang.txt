@@ -266,7 +266,7 @@ btn_makeout=Desmontar TUDO
 btn_ext1=Menu Principal
 btn_ext2=Sair do Jogo
 
-serv_err1=Fish not accepted by server! Cause:
+serv_err1=Peixe não aceito no servidor! Cause:
 
 infcell_roll=Molinete
 infcell_line=Linha
@@ -346,6 +346,7 @@ recsts_btn4=POR PEIXE
 
 recsts_btn5=POR QUANTIDADE
 recsts_btn6=POR RECORDE
+recsts_btn7=POR CLASSIFICAÇÃO
 
 setVol_musc=Volume da música
 setVol_envr=Volume do ambiente
