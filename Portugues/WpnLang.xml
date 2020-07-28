@@ -1717,10 +1717,8 @@ Para ativar, pressione o botão direito do mouse no item e selecione "Usar".</in
       </info>
     </weapon>
     <weapon id="1270">
-      <name>
-      </name>
-      <info>
-      </info>
+      <name>PVA Material</name>
+      <info>Material para confecção de embalagens, pacotes, porção, sacos de isca</info>
     </weapon>
     <weapon id="1271">
       <name>
