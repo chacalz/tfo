@@ -1,3 +1,7 @@
+Atualização 1.31.8
+- Três cores dos wagglers 8-6 e 10-8 foram adicionadas à loja.
+- As animações giratórias foram ajustadas para serem mais agressivas
+
 Atualização 1.31.7
 - As misturas de alimentação são empilhadas em embalagens de 999 unidades.
 - O atrativo "Carp" foi retirado da venda. Os que você tem continuará a funcionar.
