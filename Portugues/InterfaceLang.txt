@@ -1462,8 +1462,8 @@ bag3_info=Equipmentos
 bag4_name=Medicina
 bag4_info=Medicine, food, drink
 
-bag5_name=Contruir
-bag5_info=Craft ingrediants, components and recipes
+bag5_name=Construir
+bag5_info=Construir ingredientes, componentes and receitas
 
 bag6_name=Alarmes
 bag6_info=Alarmes
