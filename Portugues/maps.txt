@@ -1,31 +1,34 @@
 ﻿[MAP_NAMES]
-1_Name=Alemanha: Wasserdamm
+1_Name=2. Alemanha: Wasserdamm
 1_Info=
 
-2_Name=Rússia: Rio Pra
-1_Info=
+2_Name=3. Rússia: Rio Pra
+2_Info=
 
-3_Name=França: Lagoas de Perruchet 
-1_Info=
+3_Name=6. França: Lagoas Perruchet 
+3_Info=
 
-4_Name=Finlândia: Lago Kulgu
+4_Name=8. Finlândia: Lago Kulgu
 4_Info=
 
-5_Name=Ucrânia: Rio Domaha
-1_Info=
+5_Name=4. Ucrânia: Rio Domaha
+5_Info=
 
-6_Name=Bielorrússia: Lago Dukora
+6_Name=1. Bielorrússia: Lago Dukora
 6_Info=
 
-7_Name=Itália: Rio Pó
+7_Name=7. Itália: Rio Pó
 7_Info=
 
-8_Name=Polônia: Rio San
+8_Name=5. Polônia: Rio San
 8_Info=
 
-9_Name=Sérvia: Rio Danúbio
+9_Name=9. Sérvia: Rio Danúbio
+9_Info=
 
-10_Name=Irã: Mar Cáspio
+10_Name=10. Irã: Mar Cáspio
+10_Info=
+
 
 [LOC_NAMES]
 ---------------------
@@ -42,16 +45,16 @@
 
 ---------------------
 # Мещера
-21_Name=Camp
-22_Name=Pine Forest
-23_Name=Meshchera
-24_Name=Swamp
+21_Name=Campo
+22_Name=Floresta de Pinho
+23_Name=Gruta
+24_Name=Pântano
 
 ---------------------
 31_Name=Perruchet
 
 ---------------------
 
-51_Name=Fishing base
+51_Name=Base de Pesca
 
 # Пруд Перруше  Les étangs de Perruchet
