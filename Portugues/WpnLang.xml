@@ -4531,5 +4531,44 @@ Molinetes 2500 e menores são recomendados
       <info>
       </info>
     </weapon>	
+	
+	
+    <weapon id="1832">
+      <name>Balance-B3-C1</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1833">
+      <name>Balance-B3-C2</name>
+      <info>
+      </info>
+    </weapon>
+    <weapon id="1834">
+      <name>Balance-B3-C3</name>
+      <info>
+      </info>
+    </weapon>	
+	
+    <weapon id="1835">
+      <name>WOB Shad-F1</name>
+      <info>A classe Wobbler Shad (flutuante) é perfeita para pescar em córregos ou no trolling.</info>
+    </weapon>
+    <weapon id="1836">
+      <name>WOB Shad-F2</name>
+      <info>A classe Wobbler Shad (flutuante) é perfeita para pescar em córregos ou no trolling.</info>
+    </weapon>
+    <weapon id="1837">
+      <name>WOB Shad-F3</name>
+      <info>A classe Wobbler Shad (flutuante) é perfeita para pescar em córregos ou no trolling.</info>
+    </weapon>
+    <weapon id="1838">
+      <name>WOB Shad Series</name>
+      <info>A classe Wobbler Shad (flutuante) é perfeita para pescar em córregos ou no trolling.</info>
+    </weapon>
+    <weapon id="1839">
+      <name>WOB Shad-F4</name>
+      <info>A classe Wobbler Shad (flutuante) é perfeita para pescar em córregos ou no trolling.</info>
+    </weapon>	
+	
   </weapons>
 </wpnlang>
