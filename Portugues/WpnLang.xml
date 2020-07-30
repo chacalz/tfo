@@ -218,7 +218,7 @@
       <par3>
       </par3>
     </type>
-    <type id="39" name="Attractant base">
+    <type id="39" name="Atrativo base">
       <par1>
       </par1>
       <par2>
@@ -2704,31 +2704,31 @@ Size 3</info>
       </info>
     </weapon>
     <weapon id="1454">
-      <name>Attractant "Carp"</name>
-      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of all crucian species. To use it you have to mix it with water.</info>
+      <name>Atrativo para "Carp"</name>
+      <info>  Mistura seca pronta de atrativo. Feito especialmente para o aumento da intensidade de mordidas de todas as espécies de Carpas. Para usá-lo, você deve misturá-lo com água.</info>
     </weapon>
     <weapon id="1455">
-      <name>Attractant "Tench"</name>
-      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of tench. To use it you have to mix it with water.</info>
+      <name>Atrativo para "Tench"</name>
+      <info>  Mistura seca pronta de atrativo. Feito especialmente para o aumento da intensidade de mordida de Tench. Para usá-lo, você deve misturá-lo com água.</info>
     </weapon>
     <weapon id="1456">
-      <name>Attractant "Bream"</name>
-      <info>  The ready dry mixture for an attractant. Specially made for the increasing of the biting intensity of bream. To use it you have to mix it with water.</info>
+      <name>Atrativo para "Bream"</name>
+      <info>  Mistura seca pronta de atrativo. Feito especialmente para o aumento da intensidade de mordida de Bream. Para usá-lo, você deve misturá-lo com água.</info>
     </weapon>
     <weapon id="1457">
       <name>My mixture</name>
       <info>The attractant made by own recipe</info>
     </weapon>
     <weapon id="1458">
-      <name>Attractant "For Carp"</name>
+      <name>AAtrativo para Carp</name>
       <info>Atrativo para Carp</info>
     </weapon>
     <weapon id="1459">
-      <name>Attractant "For tench"</name>
+      <name>Atrativo para Tench</name>
       <info>Atrativo para Tench</info>
     </weapon>
     <weapon id="1460">
-      <name>Attractant "For bream"</name>
+      <name>AAtrativo para Bream</name>
       <info>Atrativo para Bream</info>
     </weapon>
     <weapon id="1461">
