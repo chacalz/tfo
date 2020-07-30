@@ -1,3 +1,6 @@
+Atualização 1.32.1 (rev.1)
+- Adicionei números nos mapas. Assim fica melhor na hora de fazermos as missões diárias
+
 Atualização 1.32.1
 - Foram adicionados shad -wobblers de quatro cores à venda
 - Wobblers shad - uma classe de iscas giratórias a granel, cujo nome deriva do nome do peixe americano com o mesmo nome da família do arenque. Ao contrário de outras classes de iscas, os wobblers de sável têm um corpo alto, com lados achatados. Em sua forma, o sável é semelhante a muitas espécies de peixes que vivem nos reservatórios da Europa: carpa cruciana, barata, poleiro, dourada. Wobblers da classe shad são perfeitos para pescar uma grande variedade de peixes predadores em várias condições. A versatilidade inerente dos shads os torna excelentes iscas de pesquisa. [/ Eu]
