@@ -1,22 +1,10 @@
-Atualização 1.31.8
-- Três cores dos wagglers 8-6 e 10-8 foram adicionadas à loja.
-- As animações giratórias foram ajustadas para serem mais agressivas
-
-Atualização 1.31.7
-- As misturas de alimentação são empilhadas em embalagens de 999 unidades.
-- O atrativo "Carp" foi retirado da venda. Os que você tem continuará a funcionar.
-- Adicionado o botão por classificação" às estatísticas dos peixes capturados.
-- Peixe Grayling - maior valor, experiência, raridade. Diminuição do peso médio, aumento do peso do troféu. Mudança completa da dieta para se aproximar da realidade.
-- Retexturização do Sea Zander, Grayling, Alosa
-
-Atualização 1.31.6
-- USens picker for 7.2 kg
-- Linha STK LineStar 2.8 kg line
-- Lider de 10.4 kg para flyfishing
-- Linha USens set (3, 5 and 7 kg)
-- A set of ultra-light and light USens reels
-- Adicionado novo peixe na Itália: bluefish
-- Correções de bugs
+Atualização 1.32.1
+- Foram adicionados shad -wobblers de quatro cores à venda
+- Wobblers shad - uma classe de iscas giratórias a granel, cujo nome deriva do nome do peixe americano com o mesmo nome da família do arenque. Ao contrário de outras classes de iscas, os wobblers de sável têm um corpo alto, com lados achatados. Em sua forma, o sável é semelhante a muitas espécies de peixes que vivem nos reservatórios da Europa: carpa cruciana, barata, poleiro, dourada. Wobblers da classe shad são perfeitos para pescar uma grande variedade de peixes predadores em várias condições. A versatilidade inerente dos shads os torna excelentes iscas de pesquisa. [/ Eu]
+- Correção de dados geográficos no local do Cáspio, remoção de coletores desnecessários que impediam a passagem ao longo da praia
+- Congelamento de peixes - erro corrigido com peixes duplicados, adicionado o botão "vender tudo"
+- Os sons da barra (arrastar, som da bobina, ranger de linha) são movidos para a pasta externa StreamingAssets / Sound / RodSounds / e estão disponíveis para modificações
+- Correção de outros bugs menores
 
 Traduzido por: Chacal_Z
 
