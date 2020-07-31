@@ -14,7 +14,7 @@
 	info_1="Troféu concedido por estar entre os dez primeirosa melhores no torneio «[IDNAME]»" 
 	info_2="Troféu concedido pelo terceiro lugar no torneio «[IDNAME]»||As pessoas começam a reconhecê-lo nas ruas" 
 	info_3="Troféu concedido pelo segundo lugar no torneio «[IDNAME]»||Você foi convidado para participar de um programa de talentos!" 
-	info_4="Trophy is awarded for first place in the tournament «[IDNAME]»||Chuck Norris pediu seu autógrafo"/> 
+	info_4="Troféu concedido pelo primeirolugar no torneio «[IDNAME]»||Chuck Norris pediu seu autógrafo"/> 
 	
 	<tr id="200" shortname="Troféu|«[IDNAME]»" name="Troféu «[IDNAME]»" 
 	info_1="" 
