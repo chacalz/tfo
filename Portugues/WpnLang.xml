@@ -1043,9 +1043,9 @@
       </info>
     </weapon>
     <weapon id="1148">
-      <name>
+      <name>Algas verdes
       </name>
-      <info>
+      <info>Algas marinhas. Usado para criar isca.
       </info>
     </weapon>
     <weapon id="1149">
@@ -2374,8 +2374,8 @@ Thanks for your votings!</info>
       </info>
     </weapon>
     <weapon id="1392">
-      <name>Algae</name>
-      <info>The bait for catching herbivorous fish</info>
+      <name>Alga</name>
+      <info>Isca para pegar peixes herbívoros</info>
     </weapon>
     <weapon id="1393">
       <name>VIB Raiwa 12g</name>
