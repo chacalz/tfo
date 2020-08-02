@@ -1,3 +1,6 @@
+Atualização 1.32.1 (rev.2)
+- Tradução de alguns itens faltantes
+
 Atualização 1.32.1 (rev.1)
 - Adicionei números nos mapas. Assim fica melhor na hora de fazermos as missões diárias
 
