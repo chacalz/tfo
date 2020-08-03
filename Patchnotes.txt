@@ -1,3 +1,6 @@
+Atualização 1.32.1 (rev.3)
+- Mais algumas traduções faltantes
+
 Atualização 1.32.1 (rev.2)
 - Tradução de alguns itens faltantes
 
