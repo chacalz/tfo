@@ -1046,7 +1046,7 @@ btn_cancel=Cancelar
 
 #Added 27.12.2016
 #------------------------------------
-get_lut=<color='#80ff00'>Caught: {0}</color>"
+get_lut=<color='#80ff00'>Conseguiu: {0}</color>"
 nick_info=Character’s name has to be from 5 to 12 symbols with no spaces and special symbols. Allowed either only Russians or only English letters in character’s name.
 
 
@@ -1066,7 +1066,7 @@ gi_um_8=Collection
 gi_um_9=Missões
 gi_um_10=Peixes no local
 
-gi_um_rec=Caught {1}\n{2}
+gi_um_rec=Conseguiu {1}\n{2}
 
 // Окно инфо
 gi_uinf_0=Level: {0}    Time online: {1}
