@@ -1,8 +1,6 @@
 Atualização 1.33.0
-- Bream - atividade aumentada em 25%
-- Catfish - atividade aumentada em 25%
-- Asp - peso do troféu reduzido para 7 kg, custo e experiência aumentados
-- Kutum - peso do troféu aumentado para 3 kg, custo e experiência aumentados
+O Workshop nessa versão!
+- Várias obras de arte criadas pelos jogadores estão disponíveis para você - skins para barcos, ícones, texturas, sons e localizações. Tudo o que você precisa fazer para instalar a modificação é ir para o workshop e assinar a modificação. Ele será instalado automaticamente no seu cliente de jogo e será atualizado em segundo plano em tempo hábil.
 
 Atualização 1.32.1 (rev.3)
 - Mais algumas traduções faltantes
