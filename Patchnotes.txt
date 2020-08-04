@@ -1,3 +1,9 @@
+Atualização 1.33.0
+- Bream - atividade aumentada em 25%
+- Catfish - atividade aumentada em 25%
+- Asp - peso do troféu reduzido para 7 kg, custo e experiência aumentados
+- Kutum - peso do troféu aumentado para 3 kg, custo e experiência aumentados
+
 Atualização 1.32.1 (rev.3)
 - Mais algumas traduções faltantes
 
