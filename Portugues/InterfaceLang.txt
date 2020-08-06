@@ -2,57 +2,57 @@
 
 setng_inercia=Rod inertia
 --------------------
-setVol_reel=Fishing reel volume
-wrksh_btnmods=INSTALLED
-wrksh_modscapt=INSTALLED MODS
-wrksh_modbtnsite=MORE MODS
-wrksh_unsubscrb=UNSUBSCRIBE
+setVol_reel=Volume do molinete
+wrksh_btnmods=INSTALADO
+wrksh_modscapt=MODS INSTALADOS
+wrksh_modbtnsite=MAIS MODS
+wrksh_unsubscrb=CANCELAR INSCRIÇÃO
 --------------------
-wrksh_upErr=LOADING ERROR 
-wrksh_upOK=UPLOADED SUCCESSFULLY
-wrksh_upokinf=YOU CAN CHECK UPDATING THE MODIFICATION ON THE STEAM WORKSHOP SITE\nPublishing may take some time
+wrksh_upErr=ERRO AO CARREGAR
+wrksh_upOK=CARREGAMENTO COM SUCESSO!
+wrksh_upokinf=VOCÊ PODE VERIFICAR A MODIFICAÇÃO NO SITE STEAM WORKSHOP\nA publicação pode levar algum tempo
 wrksh_upoopen=OPEN SITE
 wrksh_upld=UPLOAD MOD
-wrksh_updt=UPDATE MOD
-wrksh_nowork=MODIFICATION FILES \nNOT PREPARED! \nINSTRUCTIONS AVAILABLE ON THE STEAM FORUM
-wrksh_modIDnew=STEAM MODID: NEW
+wrksh_updt=ATUALIZAR MOD
+wrksh_nowork=ARQUIVOS MODIFICADOS \nNÃO PREPARADO! \nINSTRUÇÕES DISPONÍVEIS NO FÓRUM DA STEAM
+wrksh_modIDnew=STEAM MODID: NOVO
 wrksh_modID=STEAM MODID:
-wrksh_loczname=MOD NAME
-wrksh_loczdescr=SHORT DESCRIPTION
-wrksh_btnlocz=LOCALIZATION
-wrksh_btntextr=FILES
+wrksh_loczname=NOME DO MOD
+wrksh_loczdescr=DESCRIÇÃO CURTA
+wrksh_btnlocz=LOCALIZAÇÃO
+wrksh_btntextr=ARQUIVOS
 
 
-ptur_otCount=ONE ROD
-ptur_otBoat=BOAT ALLOW
+ptur_otCount=UMA VARA
+ptur_otBoat=BARCO DISPONÍVEL
 
-ptur_ot_00=Any
-ptur_ot_90=STICK
-ptur_ot_100=FLOATING
-ptur_ot_101=WEIGHTED
-ptur_ot_102=SPINNING
-ptur_ot_103==FLY
+ptur_ot_00=QUALQUER
+ptur_ot_90=DE MÃO
+ptur_ot_100=BÓIA
+ptur_ot_101=PESADO
+ptur_ot_102=ARTIFICIAL
+ptur_ot_103=FLY
 
 
-ptur_otypec=ROD TYPE
-ptur_time=TOURNAMENT DURATION (MINUTES)
-ptur_fondt=FUND DISTRIBUTION
-ptur_stavk=BET - TOURNAMENT TOKENS
-ptur_ttype=TOURNAMENT TYPE
-ptur_fvid=TYPE OF FISH
-ptur_pass=PASSWORD
-ptur_namt=TOURNAMENT NAME
-ptur_header=CREATION OF A PRIVATE TOURNAMENT
+ptur_otypec=TIPO DE VARA
+ptur_time=DURAÇÃO DO TORNEIO (MINUTOS)
+ptur_fondt= DISTRIBUIÇÃO DO PRÊMIO
+ptur_stavk=APOSTA - TOKENS DO TORNEIO
+ptur_ttype=TIPO DE TORNEIO
+ptur_fvid=TIPO DE PEIXE
+ptur_pass=SENHA
+ptur_namt=NOME DO TORNEIO
+ptur_header=CRIAÇÃO DE UM TORNEIO PRIVADO
 
-pturntype_0=Amount
-pturntype_1=Total weight
-pturntype_2=Three largest
-pturntype_3=Weight Limit
-pturntype_4=Difference
+pturntype_0=Valor
+pturntype_1=Peso total
+pturntype_2=Três maiores
+pturntype_3=Limite de peso
+pturntype_4=Diferença
 
-pturnfond_0=One winner takes it all
-pturnfond_1=Division of the fund into three winners
-pturnfond_2=Division of the fund into ten winners
+pturnfond_0=Um vencedor leva tudo
+pturnfond_1=Divisão do prêmio por três vencedores
+pturnfond_2=Divisão do prêmio por dez vencedores
 
 //---------------------
 
