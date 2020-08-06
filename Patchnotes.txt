@@ -1,3 +1,9 @@
+Atualização 1.33.2
+- Varas de 12 kg foram adicionadas às lojas. Essas hastes estão disponíveis para modificação de cores.
+- Adicionado vibração para gamepads ao puxar os peixes
+- Tirar uma vara de pescar de um rodpod fixo
+- Configuração adicionada para inércia de uma vara de pescar nas mãos
+
 Atualização 1.33.0
 O Workshop nessa versão!
 - Várias obras de arte criadas pelos jogadores estão disponíveis para você - skins para barcos, ícones, texturas, sons e localizações. Tudo o que você precisa fazer para instalar a modificação é ir para o workshop e assinar a modificação. Ele será instalado automaticamente no seu cliente de jogo e será atualizado em segundo plano em tempo hábil.
