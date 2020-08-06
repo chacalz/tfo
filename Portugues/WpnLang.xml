@@ -4570,5 +4570,10 @@ Molinetes 2500 e menores são recomendados
       <info>A classe Wobbler Shad (flutuante) é perfeita para pescar em córregos ou no trolling.</info>
     </weapon>	
 	
+    <weapon id="1840">
+      <name>ModStick-Series</name>
+      <info> </info>
+    </weapon>		
+	
   </weapons>
 </wpnlang>
