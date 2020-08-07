@@ -1,29 +1,10 @@
-Atualização 1.33.2
-- Varas de 12 kg foram adicionadas às lojas. Essas hastes estão disponíveis para modificação de cores.
-- Adicionado vibração para gamepads ao puxar os peixes
-- Tirar uma vara de pescar de um rodpod fixo
-- Configuração adicionada para inércia de uma vara de pescar nas mãos
-
 Atualização 1.33.0
-O Workshop nessa versão!
-- Várias obras de arte criadas pelos jogadores estão disponíveis para você - skins para barcos, ícones, texturas, sons e localizações. Tudo o que você precisa fazer para instalar a modificação é ir para o workshop e assinar a modificação. Ele será instalado automaticamente no seu cliente de jogo e será atualizado em segundo plano em tempo hábil.
+Agora você se inscreve na tradução no WORKSHOP da STEAM que ela sempre atualizará prá vc!
+Vai em configurações, depois clique no ícone WORKSHOP e depois no ícone para ir na página
+procure pela palavra TRADUÇÃO e se inscreva na Tradução PT-BR
+Reinicie o jogo e altere o idioma. 
 
-Atualização 1.32.1 (rev.3)
-- Mais algumas traduções faltantes
-
-Atualização 1.32.1 (rev.2)
-- Tradução de alguns itens faltantes
-
-Atualização 1.32.1 (rev.1)
-- Adicionei números nos mapas. Assim fica melhor na hora de fazermos as missões diárias
-
-Atualização 1.32.1
-- Foram adicionados shad -wobblers de quatro cores à venda
-- Wobblers shad - uma classe de iscas giratórias a granel, cujo nome deriva do nome do peixe americano com o mesmo nome da família do arenque. Ao contrário de outras classes de iscas, os wobblers de sável têm um corpo alto, com lados achatados. Em sua forma, o sável é semelhante a muitas espécies de peixes que vivem nos reservatórios da Europa: carpa cruciana, barata, poleiro, dourada. Wobblers da classe shad são perfeitos para pescar uma grande variedade de peixes predadores em várias condições. A versatilidade inerente dos shads os torna excelentes iscas de pesquisa. [/ Eu]
-- Correção de dados geográficos no local do Cáspio, remoção de coletores desnecessários que impediam a passagem ao longo da praia
-- Congelamento de peixes - erro corrigido com peixes duplicados, adicionado o botão "vender tudo"
-- Os sons da barra (arrastar, som da bobina, ranger de linha) são movidos para a pasta externa StreamingAssets / Sound / RodSounds / e estão disponíveis para modificações
-- Correção de outros bugs menores
+PODE DELETAR ESSE LAUCHER E EXECUTAR O JOGO PELO ÍCONE OFICIAL.
 
 Traduzido por: Chacal_Z
 
